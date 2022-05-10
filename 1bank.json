@@ -3,7 +3,7 @@
     "date": "2021-05-01",
     "income": "out",
     "classify": "eatout",
-    "history": "편의점",
+    "history": "GS25",
     "price": 12000
   },
 
@@ -11,7 +11,7 @@
     "date": "2021-05-01",
     "income": "out",
     "classify": "eatout",
-    "history": "카페",
+    "history": "스타벅스",
     "price": 5400
   },
 
@@ -27,7 +27,7 @@
     "date": "2021-05-01",
     "income": "out",
     "classify": "eatout",
-    "history": "편의점",
+    "history": "CU",
     "price": 3400
   },
 
@@ -35,7 +35,7 @@
     "date": "2021-05-02",
     "income": "out",
     "classify": "eatout",
-    "history": "카페",
+    "history": "스타벅스",
     "price": 8000
   },
 
@@ -51,14 +51,14 @@
     "date": "2021-05-02",
     "income": "out",
     "classify": "shopping",
-    "history": "마트",
+    "history": "롯데마트",
     "price": 50000
   },
   {
     "date": "2021-05-02",
     "income": "out",
     "classify": "eatout",
-    "history": "편의점",
+    "history": "GS25",
     "price": 11000
   },
   {
@@ -250,7 +250,7 @@
     "date": "2021-05-10",
     "income": "out",
     "classify": "health",
-    "history": "KB손보",
+    "history": "KB손해보험",
     "price": 78419
   },
   {
