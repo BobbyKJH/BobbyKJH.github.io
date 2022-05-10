@@ -23,7 +23,7 @@
     "price": 15000
   },
   {
-    "date": "2021-05-13",
+    "date": "2021-05-14",
     "income": "out",
     "classify": "eatout",
     "history": "편의점",
@@ -31,7 +31,7 @@
   },
 
   {
-    "date": "2021-05-13",
+    "date": "2021-05-14",
     "income": "out",
     "classify": "eatout",
     "history": "스터디카페",
@@ -39,7 +39,7 @@
   },
 
   {
-    "date": "2021-05-12",
+    "date": "2021-05-14",
     "income": "out",
     "classify": "health",
     "history": "수약국",
@@ -47,22 +47,22 @@
   },
 
   {
-    "date": "2021-05-12",
-    "income": "in",
+    "date": "2021-05-13",
+    "income": "out",
     "classify": "eatout",
     "history": "오마카세",
     "price": 86000
   },
 
   {
-    "date": "2021-05-12",
+    "date": "2021-05-13",
     "income": "out",
     "classify": "shopping",
     "history": "신세계백화점",
     "price": 548000
   },
   {
-    "date": "2021-05-11",
+    "date": "2021-05-13",
     "income": "out",
     "classify": "traffic",
     "history": "KT통신요금자동납부",
@@ -70,14 +70,14 @@
   },
 
   {
-    "date": "2021-05-11",
+    "date": "2021-05-13",
     "income": "out",
     "classify": "traffic",
     "history": "티머니지하철",
     "price": 32650
   },
   {
-    "date": "2021-05-11",
+    "date": "2021-05-13",
     "income": "out",
     "classify": "traffic",
     "history": "티머니버스",
@@ -85,7 +85,7 @@
   },
 
   {
-    "date": "2021-05-11",
+    "date": "2021-05-13",
     "income": "out",
     "classify": "eatout",
     "history": "(주)우아한형제들",
@@ -93,14 +93,14 @@
   },
 
   {
-    "date": "2021-05-11",
+    "date": "2021-05-12",
     "income": "out",
     "classify": "shopping",
     "history": "네이버페이",
     "price": 23000
   },
   {
-    "date": "2021-05-10",
+    "date": "2021-05-12",
     "income": "in",
     "classify": "",
     "history": "비바리퍼블리카(토스)",
@@ -108,7 +108,7 @@
   },
 
   {
-    "date": "2021-05-10",
+    "date": "2021-05-12",
     "income": "out",
     "classify": "home",
     "history": "월세",
@@ -116,14 +116,14 @@
   },
 
   {
-    "date": "2021-05-10",
+    "date": "2021-05-12",
     "income": "out",
     "classify": "health",
     "history": "KB손해보험",
     "price": 78419
   },
   {
-    "date": "2021-05-09",
+    "date": "2021-05-12",
     "income": "out",
     "classify": "home",
     "history": "전기요금",
