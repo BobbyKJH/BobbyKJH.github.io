@@ -1,0 +1,10 @@
+{
+  "data": {
+    "people": [
+      { "name": "Kim", "age": 27 },
+      { "name": "Park", "age": 27 },
+      { "name": "Lee", "age": 27 },
+      { "name": "hyeon", "age": 27 }
+    ]
+  }
+}
