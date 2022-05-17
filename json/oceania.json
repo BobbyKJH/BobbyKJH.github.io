@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "country_eng_nm": "Nauru",
+      "country_iso_alp2": "NR",
+      "country_nm": "나우루",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/29/20220318_164920455.gif",
+      "origin_file_nm": "20220318_164920114.gif"
+    },
+    {
+      "country_eng_nm": "New Caledonia",
+      "country_iso_alp2": "NC",
+      "country_nm": "뉴 칼레도니아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/37/20220224_233512725.gif",
+      "origin_file_nm": "20201125_211648837.gif"
+    },
+    {
+      "country_eng_nm": "New Zealand",
+      "country_iso_alp2": "NZ",
+      "country_nm": "뉴질랜드",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/38/20220318_165002661.gif",
+      "origin_file_nm": "20220318_165002302.gif"
+    },
+    {
+      "country_eng_nm": "Niue",
+      "country_iso_alp2": "NU",
+      "country_nm": "니우에",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/39/20220318_164944736.png",
+      "origin_file_nm": "20220318_164944381.png"
+    },
+    {
+      "country_eng_nm": "Marshall Islands",
+      "country_iso_alp2": "MH",
+      "country_nm": "마셜제도",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/62/20220318_163922714.gif",
+      "origin_file_nm": "20220318_163922379.gif"
+    },
+    {
+      "country_eng_nm": "Federated States of Micronesia",
+      "country_iso_alp2": "FM",
+      "country_nm": "마이크로네시아연방",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/64/20220318_161549155.gif",
+      "origin_file_nm": "20220318_161548849.gif"
+    },
+    {
+      "country_eng_nm": "Vanuatu",
+      "country_iso_alp2": "VU",
+      "country_nm": "바누아투",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/83/20220318_170812151.gif",
+      "origin_file_nm": "20220318_170811734.gif"
+    },
+    {
+      "country_eng_nm": "Northern Mariana Islands",
+      "country_iso_alp2": "MP",
+      "country_nm": "북마리아나 군도",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/102/20220224_233514711.gif",
+      "origin_file_nm": "20201125_213111921.gif"
+    },
+    {
+      "country_eng_nm": "Samoa",
+      "country_iso_alp2": "WS",
+      "country_nm": "사모아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/107/20220318_170833187.gif",
+      "origin_file_nm": "20220318_170832797.gif"
+    },
+    {
+      "country_eng_nm": "Solomon Islands",
+      "country_iso_alp2": "SB",
+      "country_nm": "솔로몬제도",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/122/20220318_165547449.gif",
+      "origin_file_nm": "20220318_165547075.gif"
+    },
+    {
+      "country_eng_nm": "Kiribati",
+      "country_iso_alp2": "KI",
+      "country_nm": "키리바시",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/210/20220318_163139369.gif",
+      "origin_file_nm": "20220318_163138940.gif"
+    },
+    {
+      "country_eng_nm": "Tonga",
+      "country_iso_alp2": "TO",
+      "country_nm": "통가",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/218/20220318_170349528.gif",
+      "origin_file_nm": "20220318_170349151.gif"
+    },
+    {
+      "country_eng_nm": "Papua New Guinea : PNG",
+      "country_iso_alp2": "PG",
+      "country_nm": "파푸아뉴기니",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/226/20220318_165120997.gif",
+      "origin_file_nm": "20220318_165120618.gif"
+    },
+    {
+      "country_eng_nm": "Palau",
+      "country_iso_alp2": "PW",
+      "country_nm": "팔라우",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/227/20220318_165320463.gif",
+      "origin_file_nm": "20220318_165320104.gif"
+    },
+    {
+      "country_eng_nm": "Australia",
+      "country_iso_alp2": "AU",
+      "country_nm": "호주",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/240/20220318_155159510.gif",
+      "origin_file_nm": "20220318_155159235.gif"
+    }
+  ]
+}

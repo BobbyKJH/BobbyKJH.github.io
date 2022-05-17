@@ -1,0 +1,326 @@
+{
+  "data": [
+    {
+      "country_eng_nm": "Nepal",
+      "country_iso_alp2": "NP",
+      "country_nm": "네팔연방",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/35/20220318_164857163.gif",
+      "origin_file_nm": "20220318_164856808.gif"
+    },
+    {
+      "country_eng_nm": "Taiwan",
+      "country_iso_alp2": "TW",
+      "country_nm": "대만",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/211/20220329_142127768.gif",
+      "origin_file_nm": "20220329_142127144.gif"
+    },
+    {
+      "country_eng_nm": "Korea",
+      "country_iso_alp2": "KR",
+      "country_nm": "대한민국",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/241/20220224_233513043.gif",
+      "origin_file_nm": "20201125_220348799.gif"
+    },
+    {
+      "country_eng_nm": "Timor-Leste",
+      "country_iso_alp2": "TL",
+      "country_nm": "동티모르",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/46/20220318_170256918.gif",
+      "origin_file_nm": "20220318_170256468.gif"
+    },
+    {
+      "country_eng_nm": "Laos",
+      "country_iso_alp2": "LA",
+      "country_nm": "라오스",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/47/20220318_163332591.gif",
+      "origin_file_nm": "20220318_163332229.gif"
+    },
+    {
+      "country_eng_nm": "Lebanon",
+      "country_iso_alp2": "LB",
+      "country_nm": "레바논",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/51/20220318_163352250.gif",
+      "origin_file_nm": "20220318_163351943.gif"
+    },
+    {
+      "country_eng_nm": "Malaysia",
+      "country_iso_alp2": "MY",
+      "country_nm": "말레이시아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/66/20220318_164600046.gif",
+      "origin_file_nm": "20220318_164559669.gif"
+    },
+    {
+      "country_eng_nm": "Maldives",
+      "country_iso_alp2": "MV",
+      "country_nm": "몰디브",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/78/20220318_164502026.gif",
+      "origin_file_nm": "20220318_164501674.gif"
+    },
+    {
+      "country_eng_nm": "Mongolia",
+      "country_iso_alp2": "MN",
+      "country_nm": "몽골",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/80/20220318_164338924.gif",
+      "origin_file_nm": "20220318_164338564.gif"
+    },
+    {
+      "country_eng_nm": "Myanmar",
+      "country_iso_alp2": "MM",
+      "country_nm": "미얀마",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/82/20220318_164314751.gif",
+      "origin_file_nm": "20220318_164314371.gif"
+    },
+    {
+      "country_eng_nm": "Bahrain",
+      "country_iso_alp2": "BH",
+      "country_nm": "바레인",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/84/20220318_155707078.gif",
+      "origin_file_nm": "20220318_155706804.gif"
+    },
+    {
+      "country_eng_nm": "Bangladesh",
+      "country_iso_alp2": "BD",
+      "country_nm": "방글라데시",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/88/20220318_155428211.gif",
+      "origin_file_nm": "20220318_155427921.gif"
+    },
+    {
+      "country_eng_nm": "Vietnam",
+      "country_iso_alp2": "VN",
+      "country_nm": "베트남",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/92/20220318_170753486.gif",
+      "origin_file_nm": "20220318_170753017.gif"
+    },
+    {
+      "country_eng_nm": "Bhutan",
+      "country_iso_alp2": "BT",
+      "country_nm": "부탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/101/20220318_155946652.gif",
+      "origin_file_nm": "20220318_155946357.gif"
+    },
+    {
+      "country_eng_nm": "Brunei",
+      "country_iso_alp2": "BN",
+      "country_nm": "브루나이",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/106/20220318_155818223.gif",
+      "origin_file_nm": "20220318_155817948.gif"
+    },
+    {
+      "country_eng_nm": "Saudi Arabia",
+      "country_iso_alp2": "SA",
+      "country_nm": "사우디아라비아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/108/20220318_165528053.gif",
+      "origin_file_nm": "20220318_165527664.gif"
+    },
+    {
+      "country_eng_nm": "Cyprus",
+      "country_iso_alp2": "CY",
+      "country_nm": "사이프러스",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/109/20220318_160811530.gif",
+      "origin_file_nm": "20220318_160811252.gif"
+    },
+    {
+      "country_eng_nm": "Sri Lanka",
+      "country_iso_alp2": "LK",
+      "country_nm": "스리랑카",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/125/20220318_163456971.gif",
+      "origin_file_nm": "20220318_163456645.gif"
+    },
+    {
+      "country_eng_nm": "Syria",
+      "country_iso_alp2": "SY",
+      "country_nm": "시리아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/131/20220318_170052069.gif",
+      "origin_file_nm": "20220318_170051681.gif"
+    },
+    {
+      "country_eng_nm": "Singapore",
+      "country_iso_alp2": "SG",
+      "country_nm": "싱가포르",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/133/20220318_165655208.gif",
+      "origin_file_nm": "20220318_165654810.gif"
+    },
+    {
+      "country_eng_nm": "United Arab Emirates : UAE",
+      "country_iso_alp2": "AE",
+      "country_nm": "아랍에미리트",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/134/20220318_154219608.gif",
+      "origin_file_nm": "20220318_154219248.gif"
+    },
+    {
+      "country_eng_nm": "Afghanistan",
+      "country_iso_alp2": "AF",
+      "country_nm": "아프가니스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/142/20220318_154306906.gif",
+      "origin_file_nm": "20220318_154306629.gif"
+    },
+    {
+      "country_eng_nm": "Yemen",
+      "country_iso_alp2": "YE",
+      "country_nm": "예멘",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/159/20220318_170906846.gif",
+      "origin_file_nm": "20220318_170906426.gif"
+    },
+    {
+      "country_eng_nm": "Oman",
+      "country_iso_alp2": "OM",
+      "country_nm": "오만",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/160/20220318_165025480.gif",
+      "origin_file_nm": "20220318_165025122.gif"
+    },
+    {
+      "country_eng_nm": "Jordan",
+      "country_iso_alp2": "JO",
+      "country_nm": "요르단",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/164/20220318_162932491.gif",
+      "origin_file_nm": "20220318_162932167.gif"
+    },
+    {
+      "country_eng_nm": "Uzbekistan",
+      "country_iso_alp2": "UZ",
+      "country_nm": "우즈베키스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/167/20220318_170638365.gif",
+      "origin_file_nm": "20220318_170637960.gif"
+    },
+    {
+      "country_eng_nm": "Iraq",
+      "country_iso_alp2": "IQ",
+      "country_nm": "이라크",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/169/20220318_162732536.gif",
+      "origin_file_nm": "20220318_162732207.gif"
+    },
+    {
+      "country_eng_nm": "Iran",
+      "country_iso_alp2": "IR",
+      "country_nm": "이란",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/170/20220318_162755203.gif",
+      "origin_file_nm": "20220318_162754880.gif"
+    },
+    {
+      "country_eng_nm": "Israel",
+      "country_iso_alp2": "IL",
+      "country_nm": "이스라엘",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/171/20220318_162634203.gif",
+      "origin_file_nm": "20220318_162633858.gif"
+    },
+    {
+      "country_eng_nm": "India",
+      "country_iso_alp2": "IN",
+      "country_nm": "인도",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/174/20220318_162705650.gif",
+      "origin_file_nm": "20220318_162705313.gif"
+    },
+    {
+      "country_eng_nm": "Indonesia",
+      "country_iso_alp2": "ID",
+      "country_nm": "인도네시아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/175/20220318_162536716.gif",
+      "origin_file_nm": "20220318_162536353.gif"
+    },
+    {
+      "country_eng_nm": "Japan",
+      "country_iso_alp2": "JP",
+      "country_nm": "일본",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/176/20220318_162955741.gif",
+      "origin_file_nm": "20220318_162955382.gif"
+    },
+    {
+      "country_eng_nm": "China",
+      "country_iso_alp2": "CN",
+      "country_nm": "중국",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/182/20220329_151915812.gif",
+      "origin_file_nm": "20220318_160513468.gif"
+    },
+    {
+      "country_eng_nm": "Kazakhstan",
+      "country_iso_alp2": "KZ",
+      "country_nm": "카자흐스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/192/20220318_163310295.gif",
+      "origin_file_nm": "20220318_163309973.gif"
+    },
+    {
+      "country_eng_nm": "Qatar",
+      "country_iso_alp2": "QA",
+      "country_nm": "카타르",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/193/20220318_165353863.gif",
+      "origin_file_nm": "20220318_165353487.gif"
+    },
+    {
+      "country_eng_nm": "Cambodia",
+      "country_iso_alp2": "KH",
+      "country_nm": "캄보디아",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/194/20220318_163118134.jpg",
+      "origin_file_nm": "20220318_163117774.jpg"
+    },
+    {
+      "country_eng_nm": "Kuwait",
+      "country_iso_alp2": "KW",
+      "country_nm": "쿠웨이트",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/206/20220318_163249035.gif",
+      "origin_file_nm": "20220318_163248710.gif"
+    },
+    {
+      "country_eng_nm": "Kyrgyz",
+      "country_iso_alp2": "KG",
+      "country_nm": "키르기스스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/209/20220318_163048531.gif",
+      "origin_file_nm": "20220318_163048200.gif"
+    },
+    {
+      "country_eng_nm": "Tajikistan",
+      "country_iso_alp2": "TJ",
+      "country_nm": "타지키스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/212/20220318_170239649.gif",
+      "origin_file_nm": "20220318_170239262.gif"
+    },
+    {
+      "country_eng_nm": "Thailand",
+      "country_iso_alp2": "TH",
+      "country_nm": "태국",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/214/20220318_170222070.gif",
+      "origin_file_nm": "20220318_170221676.gif"
+    },
+    {
+      "country_eng_nm": "Turkey",
+      "country_iso_alp2": "TR",
+      "country_nm": "터키",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/216/20220318_170408650.gif",
+      "origin_file_nm": "20220318_170408251.gif"
+    },
+    {
+      "country_eng_nm": "Turkmenistan",
+      "country_iso_alp2": "TM",
+      "country_nm": "투르크메니스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/219/20220318_170314338.gif",
+      "origin_file_nm": "20220318_170313938.gif"
+    },
+    {
+      "country_eng_nm": "Pakistan",
+      "country_iso_alp2": "PK",
+      "country_nm": "파키스탄",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif",
+      "origin_file_nm": "20220318_165158394.gif"
+    },
+    {
+      "country_eng_nm": "Palestine",
+      "country_iso_alp2": "PS",
+      "country_nm": "팔레스타인",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/228/20220318_165237143.gif",
+      "origin_file_nm": "20220318_165236811.gif"
+    },
+    {
+      "country_eng_nm": "Philippines",
+      "country_iso_alp2": "PH",
+      "country_nm": "필리핀",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/237/20220318_165139676.gif",
+      "origin_file_nm": "20220318_165139313.gif"
+    },
+    {
+      "country_eng_nm": "Hongkong",
+      "country_iso_alp2": "HK",
+      "country_nm": "홍콩",
+      "download_url": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/250/20220224_233512982.gif",
+      "origin_file_nm": "20201125_221628332.gif"
+    }
+  ]
+}
