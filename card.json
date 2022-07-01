@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "영국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "2030",
+    "theme": "문화탐방",
+    "package": "풀패키지"
+  },
+  {
+    "id": 2,
+    "name": "영국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "2030",
+    "theme": "문화탐방",
+    "package": "풀패키지"
+  },
+  {
+    "id": 3,
+    "name": "영국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "2030",
+    "theme": "문화탐방",
+    "package": "풀패키지"
+  },
+  {
+    "id": 4,
+    "name": "영국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "2030",
+    "theme": "문화탐방",
+    "package": "풀패키지"
+  },
+  {
+    "id": 5,
+    "name": "미국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "4050",
+    "theme": "휴양지",
+    "package": "풀패키지"
+  },
+  {
+    "id": 6,
+    "name": "미국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "4050",
+    "theme": "휴양지",
+    "package": "세미패키지"
+  },
+  {
+    "id": 7,
+    "name": "미국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "4050",
+    "theme": "휴양지",
+    "package": "세미패키지"
+  },
+  {
+    "id": 8,
+    "name": "미국",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "4050",
+    "theme": "휴양지",
+    "package": "세미패키지"
+  },
+  {
+    "id": 9,
+    "name": "일본",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "6070",
+    "theme": "골프여행",
+    "package": "세미패키지"
+  },
+  {
+    "id": 10,
+    "name": "일본",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "6070",
+    "theme": "골프여행",
+    "package": "세미패키지"
+  },
+  {
+    "id": 11,
+    "name": "일본",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "6070",
+    "theme": "골프여행",
+    "package": "배낭여행"
+  },
+  {
+    "id": 12,
+    "name": "일본",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "6070",
+    "theme": "골프여행",
+    "package": "배낭여행"
+  },
+  {
+    "id": 13,
+    "name": "프랑스",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "남자끼리",
+    "theme": "트레킹",
+    "package": "배낭여행"
+  },
+  {
+    "id": 14,
+    "name": "프랑스",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "남자끼리",
+    "theme": "트레킹",
+    "package": "배낭여행"
+  },
+  {
+    "id": 15,
+    "name": "프랑스",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "남자끼리",
+    "theme": "트레킹",
+    "package": "배낭여행"
+  },
+  {
+    "id": 16,
+    "name": "프랑스",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "남자끼리",
+    "theme": "트레킹",
+    "package": "풀패키지"
+  },
+  {
+    "id": 17,
+    "name": "시칠리아",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "여자끼리",
+    "theme": "성지순례",
+    "package": "풀패키지"
+  },
+  {
+    "id": 18,
+    "name": "시칠리아",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "여자끼리",
+    "theme": "성지순례",
+    "package": "풀패키지"
+  },
+  {
+    "id": 19,
+    "name": "시칠리아",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "여자끼리",
+    "theme": "성지순례",
+    "package": "풀패키지"
+  },
+  {
+    "id": 20,
+    "name": "시칠리아",
+    "content": "가고싶다",
+    "price": 100000,
+    "group": "여자끼리",
+    "theme": "성지순례",
+    "package": "풀패키지"
+  }
+]
