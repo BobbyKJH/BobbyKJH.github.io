@@ -6,7 +6,8 @@
     "price": "100,000",
     "group": "2030",
     "theme": "문화탐방",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "price": "100,000",
     "group": "2030",
     "theme": "문화탐방",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "price": "100,000",
     "group": "2030",
     "theme": "문화탐방",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "price": "100,000",
     "group": "2030",
     "theme": "문화탐방",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "price": "100,000",
     "group": "4050",
     "theme": "휴양지",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "price": "100,000",
     "group": "4050",
     "theme": "휴양지",
-    "package": "세미패키지"
+    "package": "세미패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "price": "100,000",
     "group": "4050",
     "theme": "휴양지",
-    "package": "세미패키지"
+    "package": "세미패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "price": "100,000",
     "group": "4050",
     "theme": "휴양지",
-    "package": "세미패키지"
+    "package": "세미패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "price": "100,000",
     "group": "6070",
     "theme": "골프여행",
-    "package": "세미패키지"
+    "package": "세미패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "price": "100,000",
     "group": "6070",
     "theme": "골프여행",
-    "package": "세미패키지"
+    "package": "세미패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "price": "100,000",
     "group": "6070",
     "theme": "골프여행",
-    "package": "배낭여행"
+    "package": "배낭여행",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "price": "100,000",
     "group": "6070",
     "theme": "골프여행",
-    "package": "배낭여행"
+    "package": "배낭여행",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "price": "100,000",
     "group": "남자끼리",
     "theme": "트레킹",
-    "package": "배낭여행"
+    "package": "배낭여행",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "price": "100,000",
     "group": "남자끼리",
     "theme": "트레킹",
-    "package": "배낭여행"
+    "package": "배낭여행",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "price": "100,000",
     "group": "남자끼리",
     "theme": "트레킹",
-    "package": "배낭여행"
+    "package": "배낭여행",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "price": "100,000",
     "group": "남자끼리",
     "theme": "트레킹",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "price": "100,000",
     "group": "여자끼리",
     "theme": "성지순례",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "price": "100,000",
     "group": "여자끼리",
     "theme": "성지순례",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "price": "100,000",
     "group": "여자끼리",
     "theme": "성지순례",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   },
   {
     "id": 20,
@@ -177,6 +196,7 @@
     "price": "100,000",
     "group": "여자끼리",
     "theme": "성지순례",
-    "package": "풀패키지"
+    "package": "풀패키지",
+    "img": "https://opendata.mofa.go.kr:8444/fileDownload/images/country_images/flags/225/20220318_165158778.gif"
   }
 ]
