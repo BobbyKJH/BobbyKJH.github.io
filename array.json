@@ -1,5 +1,1404 @@
 [
   {
+    "title": "5060들만의 치앙마이 多色 골프 5,6일 #품격",
+    "contents": "5060 누구나 함께 치앙마이 명문 골프장 알파인CC와 하이랜드CC, 방역완비된 시내 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/453ff5d8b9514.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a9f1accfa3fa0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/16dc58107ed1f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6f02ce4571c4d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9e110bc67fff0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1a138163b1258.jpg"
+    ],
+    "price": 1290000,
+    "period": 5,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "4050",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만의 치앙마이 多色 골프 5,6일 #실속",
+    "contents": "3040 누구나 함께 치앙마이 실속 골프, 매일 다른 명문 골프장 각 18홀 3회, 방역완비, 시내에 위치한 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/84e629bfe3650.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/63f9da6d9fed1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/feefe1b5b2205.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ad987d01b10ff.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b9501063711e0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/44910e5d26a9a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fe4beba64daef.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "핸디18이하 치앙마이 GOLFTEL 알파인CC 5,6일",
+    "contents": "핸디 18 이하만 출발하는 치앙마이 리조트, 최고 명문 골프장으로 난이도 있는 알파인CC, 방역완비된 품격 리조트에서 안전한 숙박",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/7cb9380d13190.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/06316b1619ce4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2a8ed7f35edef.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b04a80d244e1a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7afc7567098b7.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "anyone",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남자들만 치앙마이 GOLFTEL 레거시CC 5,6일",
+    "contents": "남자들만 떠나는 치앙마이 레거시CC + 파노라마CC 매일 36홀, 한국인 상주로 불편함 없이 자유일정 가능",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/beb953f249812.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d2dfc847ab59b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/62109cb82d230.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ff1dd69b2ea4a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c1ef3bc0ab4ad.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bad1e650b39e1.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "male",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "커플들만 치앙마이 GOLFTEL 하이랜드CC 5,6일",
+    "contents": "커플 또는 부부끼리 출발하는 치앙마이 골프텔 하이랜드에서 매일 18홀 라운드 방역 완비 부대시설 갖추어진 품격 리조트",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/26c27c67aa035.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5bedf2b7b391e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/20421bf0628b4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/306ddfdd6a436.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/86853167c0952.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220728, 20220730, 20220731, 20220803,
+      20220804, 20220806, 20220807, 20220810, 20220811, 20220813, 20220814,
+      20220817, 20220818, 20220820, 20220821
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "family",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "골린이의 치앙마이 GOLFTEL 쿤탄CC 5,6일",
+    "contents": "골프 초보끼리 매일 36홀 편안하게 즐기는 골프, 방역 완비 부대시설 갖추어진 품격 리조트 ,한국인 상주로 불편함 없이 자유일정 가능",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220519/0dd8abfd2240d.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6256fc5854c42.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4d9566de91d7e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b133bf5f0825c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d6bc51ccb244e.jpg"
+    ],
+    "price": 1190000,
+    "period": 6,
+    "start": [
+      20220723, 20220727, 20220730, 20220803, 20220806, 20220810, 20220813,
+      20220817, 20220820
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "anyone",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "태국, 올해 한국 관광객 50만명 기대…\"방콕·치앙마이 오세요\"",
+        "content": "[연합뉴스] 태국이 코로나19 입국규제 완화 조치를 계기로 올해 50만명 가량의 한국 관광객 유치를 희망하고 있다.",
+        "img": "https://img.hankyung.com/photo/202206/ZK.30389935.1.jpg"
+      },
+      {
+        "title": "하나투어, 태국 치앙마이 골프여행 전세기 띄운다",
+        "content": "하나투어는 내년 1월부터 태국 치앙마이 골프 여행을 위해 대한항공 전세기를 띄운다고 12일 밝혔다.",
+        "img": "https://img.hankyung.com/photo/202110/AKR20211012082600003_01_i_P4.jpg"
+      },
+      {
+        "title": "왕의 휴양지 치앙마이 명품골프장...가싼레거시,가싼파노라마 통합회원권출시",
+        "content": "태국 골프장 랭킹 탑 100위중 2위에 선정된 가싼레거시골프리조트와 가싼파노라마골프리조트에서 한국인만을 위한 10년간 무제한으로 이용할 수 있는 회원권을 출시했다.",
+        "img": "https://cdn.nvp.co.kr/news/photo/202206/304272_304705_2325.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만 비엔티안 GOLFTEL 댄사반CC",
+    "contents": "3040끼리 함께 바다같은 남름 호숫가의 골프리조트 & 카지노 호텔, 수상 액티비티 즐기기",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220402/f568b9bac3880.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e60c6863d7c5b.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/284888bebb04d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/848a15c2ef72a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/08b37c93177a7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/040fb9c4302b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/026a28cff46bb.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/25771c4552f49.jpg"
+    ],
+    "price": 590000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "‘동양의 진주’ 라오스 비엔티엔에서 5년간 무료 라운딩",
+        "content": "‘동양의 진주’라고 불리우는 라오스 비엔티엔의 ‘댄사반 골프&카지노 리조트(Dansavanh Golf & Casino Resort)’ 회원권이 합리적인 가격대에 출시돼 국내 골퍼들의 관심을 끌고 있다.",
+        "img": "https://images.chosun.com/resizer/tZQDTnLKOwk85O6uw1-09LSVMtk=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOL62IAMRZDTPJOZRONJGXS6VA.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "여자들만의 비엔티안 多色 골프",
+    "contents": "여자들끼리만 출발하는 라오스 비엔티안에서 매일 다른 골프장, 각 18홀 3회+호텔 숙박 패키지, 방역완비 시내  5성급 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/999378e79e4ba.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0b54a36034d97.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/641971c895d0d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6581fe44acb35.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6cafd8073cec4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/426fe8e71a765.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0dcafe0ddcdc5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a8ee2be2d9fa7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/26e0313ed8319.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fe3ecb26ab629.jpg"
+    ],
+    "price": 890000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "female",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "‘동양의 진주’ 라오스 비엔티엔에서 5년간 무료 라운딩",
+        "content": "‘동양의 진주’라고 불리우는 라오스 비엔티엔의 ‘댄사반 골프&카지노 리조트(Dansavanh Golf & Casino Resort)’ 회원권이 합리적인 가격대에 출시돼 국내 골퍼들의 관심을 끌고 있다.",
+        "img": "https://images.chosun.com/resizer/tZQDTnLKOwk85O6uw1-09LSVMtk=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOL62IAMRZDTPJOZRONJGXS6VA.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남자들만 파타야 GOLFTEL 파타나CC",
+    "contents": "남자들만 떠나는 파타야 4성급 골프 리조트에서 매일 36홀 라운드, 한국인 담당자, 한식당 보유한 가성비 골프장",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/9ad95e0bc13b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/890bc1d7e6b73.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0cf72fd4ac7e5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7aff53ad0eb8d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4e3b6ea2e6e58.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/deefbf33a59ad.jpg"
+    ],
+    "price": 1590000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "male",
+    "destination": "sea",
+    "deadline": 20,
+    "available": false,
+    "news": [
+      {
+        "title": "태국 파타야, 올해의 아시아 3대 해양관광축제도시로 선정",
+        "content": "[티티엘뉴스] 태국의 유명 관광 휴양지 파타야(Pattaya)가 우리나라의 통영, 필리핀 세부(Cebu)와 함께 '2022 아시아 3대 해양관광축제도시'로 선정됐다.",
+        "img": "http://ttlnews.com/upload/editor_content_images/1649245408506_editor_image.wm.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "3040들만 방콕 GOLFTEL 써밋윈드밀CC",
+    "contents": "3040 솔로 혼성그룹의 5성급 골프 리조트, 태국에서 가장 훌륭한 코스와 교통 편리한 위치, 리조트 한국인 상주로 편리한 외출 ",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/9ad95e0bc13b9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/890bc1d7e6b73.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d53ad0e610424.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/79641a7e10738.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e62ad0b438804.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e0f6273cf6de4.jpg"
+    ],
+    "price": 1690000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "bag",
+    "group": "3040",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "아시아나, LA·방콕 노선에 A380 투입한 까닭은?",
+        "content": "아시아나항공, A380 투입으로 방콕 주1379석·LA 주552석 추가 공급 확대",
+        "img": "https://www.sisaon.co.kr/news/photo/202206/139839_160413_5940.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "5060들만 방콕&파타야 多色 골프",
+    "contents": "5060 누구나 함께 방콕-파타야 명품 골프, 매일 다른 명문 골프장 각 18홀 3회, 방역완비 시내  5성급 호텔로 안전+자유일정 편리",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220331/3d5851921c3a6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/8367944a9f455.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/eca9cfc39c7ac.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/dfc6d3872738d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bbec907687d2f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/cca740e2733a4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ebb1ccbab57ac.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ff1ab8a22f2a9.jpg"
+    ],
+    "price": 1790000,
+    "period": 5,
+    "start": [
+      20220722, 20220727, 20220729, 20220803, 20220805, 20220810, 20220812,
+      20220817, 20220819
+    ],
+    "theme": "golf",
+    "style": "semi",
+    "group": "5060",
+    "destination": "sea",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "아시아나, LA·방콕 노선에 A380 투입한 까닭은?",
+        "content": "아시아나항공, A380 투입으로 방콕 주1379석·LA 주552석 추가 공급 확대",
+        "img": "https://www.sisaon.co.kr/news/photo/202206/139839_160413_5940.jpg"
+      },
+      {
+        "title": "다시 시작된 태국골프…클럽 볼 때마다 마음이 설렌다",
+        "content": "자연경관 뛰어난 다양한 골프장 매력, 5성급 라빈드라 비치 리조트서 휴양도",
+        "img": "https://file.mk.co.kr/meet/neds/2022/05/image_readtop_2022_428650_16526412625042795.jpg"
+      },
+      {
+        "title": "[태국여행] 방콕에서 파타야 가는 길, 숨은 핫플레이스 있다",
+        "content": "무에타이 체육관부터 비타민 가득 열대과일농장, 현지인이 사랑하는 방센비치까지",
+        "img": "http://www.travelnbike.com/news/photo/201803/54756_75543_3540.jpg"
+      }
+    ]
+  },
+  {
+    "title": "불교인들만 미얀마 9일",
+    "contents": "60톤의 금으로 장식한 부처님 사리탑 '쉐다곤파고다'와 앙코르 유적과 견주는 불교 성지 '바간', 부처님과 제자가 다녀갔다는 '만달레이' 투어",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/2b4937e2468bb.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f19942a709637.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/068576710d12b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3afb2d51a43b6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5fadbc08fbcd4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c573604c2420.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7f4190c1b254e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4f94c6f1e0eaa.jpg"
+    ],
+    "price": 1590000,
+    "period": 9,
+    "start": [
+      20220723, 20220724, 20220730, 20220731, 20220806, 20220807, 20220813,
+      20220814, 20220820, 20220821
+    ],
+    "theme": "circuit",
+    "style": "full",
+    "group": "anyone",
+    "destination": "sea",
+    "deadline": 30,
+    "available": true,
+    "news": [
+      {
+        "title": "미얀마 일상에 깃든 독실한 불교 문화",
+        "content": "미얀마는 국민의 89%가 불교도일 정도로 독실한 불교 국가다. 버마족(Burma)을 비롯해 샨족(Shan), 몬족(Mon) 등 여러 소수 민족들이 불교를 믿고 있으며 생활 속에서 참선과 기도, 명상 등을 실천해 나간다.",
+        "img": "https://cdn.travie.com/news/photo/202110/21983_12213_715.jpg"
+      },
+      {
+        "title": "[미얀마 여행 Inside] 한 발짝 더 내딛으면…여기가 미얀마의 속살",
+        "content": "'옷깃만 스쳐도 인연'이란 말은 그만큼 '관계'가 중요하다는 뜻이리라. 2020년은 한국과 미얀마가 수교한 지 45주년이 되는 해다.",
+        "img": "https://file.mk.co.kr/meet/neds/2020/01/image_readtop_2020_13443_15782508634039672.jpg"
+      },
+      {
+        "title": "평화로운 미얀마의 삶과 풍경 고스란히…김영록 작가 '미얀마의 삶과 풍경' 사진전",
+        "content": "시간이 멈춘 듯 평화로운 풍경이 가득한 미얀마의 일상과 그 속에서 하루하루를 열심히 살아가는 평범한 주민들의 삶을 담은 다큐멘터리 미얀마 민주시민 돕기 기금마련 - 김영록 사진전 ‘미얀마의 삶과 풍경’이 28일부터 10월 3일까지 대백프라자갤러리 A관(12F)에서 열린다",
+        "img": "http://www.kyongbuk.co.kr/news/photo/202109/2084169_510855_2954.jpg"
+      }
+    ]
+  },
+  {
+    "title": "자녀동반 라오스 10일",
+    "contents": "자녀동반 가족끼리 여행하는, 라오스의 숨은 절경을 모두 둘러보는 10일간의 여행, 패키지의 안전함과 자유여행의 즐거움을 동시에~",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/e3c2e8966649a.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/966bc43e2764d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/153b60651aab3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f1d72c20cbb99.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ad7db13a5301b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a2c1e0b3213ca.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/491ce76215f5c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e4fe180018ea3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b1f207a716d68.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ce3986b817701.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/de4b257cfabd6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/286b273a98698.jpg"
+    ],
+    "price": 1790000,
+    "period": 10,
+    "start": [
+      20220723, 20220724, 20220730, 20220731, 20220806, 20220807, 20220813,
+      20220814, 20220820, 20220821
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "family",
+    "destination": "sea",
+    "deadline": 30,
+    "available": true,
+    "news": [
+      {
+        "title": "‘당신이 알아야 할 라오스, 팍세 ",
+        "content": "루앙 프라방(Luang Prabang)도 방 비엥(Vang Vieng)도 아니다. 캄보디아와 태국과의 국경을 접하고 있는 도시이자 오랜 역사와 때 묻지 않은 자연, 순수한 사람들이 어울려 살고 있는 곳. 모르면 몰랐지, 알면 알수록 더 알고 싶은 세상, 라오스 남부의 팍세(Pakse) 이야기다. ",
+        "img": "https://cdn.travie.com/news/photo/202203/50213_21162_554.jpg"
+      },
+      {
+        "title": "김성범과 함께 라오스 “비엔티안·씨엥쿠앙불상공원·시판돈·놈삭따이마을”",
+        "content": "[한국강사신문 정헌희 기자] 몸과 마음의 휴식을 찾아 떠나는 아시아! 누구나 한 번쯤 푸른 초원 위에 그림 같은 집을 짓고 사는 꿈을 꾼다. 꿈꾸지 않아도 자연과 함께 평화롭고 여유로운 삶을 살아가는 아시아의 다양한 사람들을 만나보자!",
+        "img": "http://cdn.lecturernews.com/news/photo/202111/79720_284047_5310.png"
+      },
+      {
+        "title": "[여행honey] 잠 못 드는 열대야, 세계의 야시장 구경해볼까",
+        "content": "(서울=연합뉴스) 이른 열대야로 밤에도 무더위에 잠 못 이루는 요즘입니다. 이런 여름밤에 꼭 가야 하는 곳이 있죠. 바로 야시장입니다. 거리두기 해제 덕에 3년 만에 전국적으로 야시장이 다시 문을 열고 있습니다.",
+        "img": "https://img.yna.co.kr/etc/inner/KR/2022/07/06/AKR20220706003700805_01_i_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "6070의 버킷리스트 중남미 9개국 31일",
+    "contents": "6070 누구나 참가할 수 있는 중남미 9개국 여행, 패키지의 안전함과 자유여행의 즐거움을 동시에~",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/401df07364c9b.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6570f37d18dd7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/52165cca6c370.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ae663a0d2c2d1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/11a0f6d1f0911.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6636edbe609ee.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ea3261d895fa0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/000bb585d1b7f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d6a190f2eff93.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/dd500c6eb1b64.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4376e4e7d79fe.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/614163da0e315.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d13fc02935b48.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/df21b14ad2ba9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d063333d83c2b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ede90126e71f5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7ad7703dad7c4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/eafb3cdb76dda.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7f23e1419a590.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c22beee208503.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f0a70cc100b1b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/12d98fca7289a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/cc73c4bf5a460.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c02ae76a60a2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a3fb2c9082380.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c311749572c2a.jpg"
+    ],
+    "price": 9890000,
+    "period": 31,
+    "start": [
+      20220722, 20220725, 20220727, 20220729, 20220730, 20220802, 20220803,
+      20220805, 20220808, 20220809, 20220810, 20220813, 20220815, 20220816,
+      20220817, 20220820, 20220821, 20220822
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "6070",
+    "destination": "america",
+    "deadline": 15,
+    "available": true,
+    "news": [
+      {
+        "title": "한국에서 떠나는 ‘가까운 중남미 여행’",
+        "content": "지구 반대편에 위치한 중남미, 중남미 유물과 미술품을 보고 정신세계와 맛까지 체험 가능",
+        "img": "https://www.korea.kr/newsWeb/resources/attaches/2015.04/20/%EC%A1%B0%EA%B0%81%EA%B3%B5%EC%9B%90-1996.jpg"
+      },
+      {
+        "title": "수련 잎 넓이가 3m… 제3의 종 '경이로운 발견'",
+        "content": "새로운 수련 종을 확인한 논문 저자들은 수련에 관한 역사기록, 원예, 지리와 현존하는 표본에 관한 정보를 모두 종합했다. 시민들이 보유한 자료, 식물 확인 앱 iNaturalist, 소셜 미디어에 수련으로 태그된 사진들을 모두 모았다.",
+        "img": "https://image.newsis.com/2022/07/06/NISI20220706_0001036078_web.jpg?rnd=20220706174109"
+      },
+      {
+        "title": "'안데스 새해' 맞는 볼리비아 원주민들",
+        "content": "볼리비아 고산 도시 엘 알토에서 안데스 종교 지도자가 새해 의식을 치르면서 모닥불에 술을 뿌리고 있다. 아이마라 원주민 공동체는 남반구의 동지를 맞아 '태양의 귀환'이라고 불리는 5530번째 안데스 새해를 기념한다.",
+        "img": "https://image.newsis.com/2022/06/22/NISI20220622_0001025037_web.jpg?rnd=20220622114245"
+      }
+    ]
+  },
+  {
+    "title": "5060들만 남미 6개국 26일 #만65세까지",
+    "contents": "만 65세까지 출발하는 여행(66세 이상 빙하트레킹 불가), 파타고니아 빙하 트레킹 및 피츠로이",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/6bc82f3053e38.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6570f37d18dd7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/52165cca6c370.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ae663a0d2c2d1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ec7f668616c3f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fceb95a26baa3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0ab58b0f50254.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f0cb71ad3b2df.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3262e605f656f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b0033bcb33874.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b9ba6dc51c829.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6b61fa0946e8b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9886f2c881129.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/209e83b0d43e7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e4164a5f0eb20.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/30e22acabe117.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/eb5cbd9d892be.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fcf4a55ea7603.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c23663e44ab76.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/66eb37ad7f147.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6b6d61b7381c8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0d72f9e3b7005.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/109580203bbaf.jpg"
+    ],
+    "price": 8490000,
+    "period": 26,
+    "start": [
+      20220722, 20220725, 20220727, 20220729, 20220730, 20220802, 20220803,
+      20220805, 20220808, 20220809, 20220810, 20220813, 20220815, 20220816,
+      20220817, 20220820, 20220821, 20220822
+    ],
+    "theme": "trek",
+    "style": "full",
+    "group": "4050",
+    "destination": "america",
+    "deadline": 12,
+    "available": true,
+    "news": [
+      {
+        "title": "'세계테마기행' 아르헨티나 파타고니아 빙하 트레킹",
+        "content": "구름 기차 (Tren a las Nubes)도 다룬다. 구름 기차는 살타 역(Estación de Salta)에서 출발해 협곡 위를 달린다. 기차는 해발 4220m 라 폴보리자 육교 역 (Estación Viaducto La Polvorilla)에 도착한다.",
+        "img": "https://image.newsis.com/2021/12/27/NISI20211227_0000901483_web.jpg?rnd=20211227154240"
+      },
+      {
+        "title": "파타고니아, 지구 끝 빙하와 바람의 땅을 찾아서",
+        "content": "지구 끝이라니 생각만 해도 멀고 먼 땅으로 느껴질지도 모른다. 그러나 가장 먼 여행은 머리에서 가슴까지의 여행이라는 말도 있듯이 막상 가보면 그리 멀기만 한 곳도 아니다. 남극 바로위 남아메리카의 칠레와 아르헨티나에 걸친 일부지역을 칭하는 파타고니아라는 명칭은 등산복 브랜드",
+        "img": "https://img.etoday.co.kr/pto_db/2018/07/600/20180727093950_1234525_1200_900.JPG"
+      },
+      {
+        "title": "아침 햇살에 황금빛 '피츠로이'의 숨 막히는 장관",
+        "content": "다음 날 아침 새벽 해 뜨기 전에 사진을 좋아하는 이영근 회장이 랜턴을 머리에 달고 2시간 걸리는 전망대까지 올라갔다. 일출에 피츠로이(Fitz Roy) 봉우리가 황금색으로 변하는 모습을 사진에 담기 위해 간 것이다. 왕복 4시간 산행 끝에 성공적으로 좋은 작품 사진을 촬영하고 내려왔다.",
+        "img": "https://news.koreadaily.com/data/photo/originals/2021/11/03/201151473.jpg"
+      }
+    ]
+  },
+  {
+    "title": "여자들만 파타고니아 14일",
+    "contents": "남미 고산지대의 힘든 지역은 다음으로 미루고, 편안하고 화려한 일정의 남미 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/1d26cd1ef00e9.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6570f37d18dd7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/90a612d362195.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ae663a0d2c2d1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3f82f70cc8c14.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/da1cf0c1be002.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f12af089771cc.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f0f64ffe53623.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3fecf5849ec1f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2d9e952291072.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b450738646cf7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/339c03b3f0b15.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/81700e707cb09.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6eaf1a0f7fdb8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a68e812fbb72a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/545b465c50940.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ba278ae25e297.jpg"
+    ],
+    "price": 3890000,
+    "period": 14,
+    "start": [
+      20220722, 20220725, 20220727, 20220729, 20220730, 20220802, 20220803,
+      20220805, 20220808, 20220809, 20220810, 20220813, 20220815, 20220816,
+      20220817, 20220820, 20220821, 20220822
+    ],
+    "theme": "rest",
+    "style": "full",
+    "group": "female",
+    "destination": "america",
+    "deadline": 8,
+    "available": true,
+    "news": [
+      {
+        "title": "파타고니아, ‘리사이클 블랙 홀 컬렉션’ 출시",
+        "content": "이번 컬렉션은 토트 및 큐브, 더플, 슬링, 백팩 등 총 7가지 스타일로 구성, 폭 넓은 선택이 가능하다. 뛰어난 내구성과 강력한 수납력을 갖춰 여행, 아웃도어 활동, 일상 등 생활 전반에서 활용하기 좋은 제품으로, 친환경을 최우선시하는 브랜드 철학을 반영해 주 원단부터 안감, 웨빙 부분까지 100% 재활용 소재로 만들어졌다.",
+        "img": "http://www.apparelnews.co.kr/upfiles/manage/202206/b981eea928df222711ce533a91a10ffc.jpg"
+      },
+      {
+        "title": "여행자의 땅, 파타고니아",
+        "content": "브루스 채트윈과 찰스 다윈, 배낭과 운동화를 종교처럼 믿는 여행자에겐 꿈의 공간",
+        "img": "http://lonelyplanet.co.kr/upload/moduleBasic/AI_00003569/70fd0c76-07d0-4351-8c71-70090dfa58b9.jpg"
+      },
+      {
+        "title": "[종합] '트래블러' 강하늘X안재홍X옹성우, 푸에르토 이과수->파타고니아... 기대감 자아내는 송편즈 여행기",
+        "content": "푸에르토 이과수에 도착한 강하늘, 안재홍, 옹성우는 보트 투어 예매에 나섰다. 강하늘은 내레이션을 통해 이과수 폭포를 설명했다. 트래블러들은 그린 트레일, 로어 트레일을 거쳐 악마의 목구멍에 도착한 후 보트 투어로 마무리하겠다는 계획을 밝혔다.",
+        "img": "https://file.mk.co.kr/meet/neds/2020/03/image_readtop_2020_241341_15835822194114847.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남자들만 페루&볼리비아&칠레 16일",
+    "contents": "해발 3~4천미터 고산증과 싸우는 남자들의 여행, 남미 최고의 절경과 문화유적을 즐기는 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/482a56bb18864.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6570f37d18dd7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c4a6f66d2b5a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ae663a0d2c2d1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d4057f0229f7b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/03c66ee7bb857.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c6ceddc9d3f19.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a277f653dfef5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3f8f2c17f7e9d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4372745fc44eb.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/80ef2de67f49b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/dcbb6c56485ad.jpg"
+    ],
+    "price": 4590000,
+    "period": 16,
+    "start": [
+      20220722, 20220725, 20220728, 20220729, 20220730, 20220802, 20220803,
+      20220805, 20220806, 20220809, 20220811, 20220813, 20220815, 20220816,
+      20220817, 20220819, 20220821, 20220822
+    ],
+    "theme": "trek",
+    "style": "full",
+    "group": "male",
+    "destination": "america",
+    "deadline": 11,
+    "available": true,
+    "news": [
+      {
+        "title": "남미 최고의 절경이자 세계 3대 트레킹 코스인 '토레스 델 파이네'",
+        "content": "남미는 자연의 위대함을 경험할 수 있는 여행지다. 그중에서도 칠레가 자랑하는 국립공원 '토레스 델 파이네'는 여행객들 사이에서는 죽기 전에 꼭 가봐야 할 여행지로 꼽힌다.",
+        "img": "https://cdn.obsnews.co.kr/news/photo/201906/1161124_363270_3840.jpg"
+      },
+      {
+        "title": "남미를 여행하는 방법 두 가지, 우아하게 크루즈? 두 발의 감동 트레킹!",
+        "content": "비행기를 갈아타고 24시간 가까이 날아가야 하는 지구 반대쪽 남미는 체감 거리가 더 멀게 느껴진다. 호텔과 교통편 등 열악한 여행 인프라와 치안 등의 걱정으로 떠나고 싶은 마음을 꽁꽁 묶어놓기 때문이다. 그럼에도 많은 이들이 남미여행을 꿈꾸는 건 우리와 정반대의 삶과 자연이 그곳에 있어서다.",
+        "img": "https://health.chosun.com/site/data/img_dir/2015/09/25/2015092501599_0.jpg"
+      },
+      {
+        "title": "대세 남미여행 내 나이에도 가능해?",
+        "content": "항공노선이 있는 구간은 비행기를 이용타고 이동해 피로가 덜하다, 현지 트레킹과 해설 가이드의 도움을 받아 여행",
+        "img": "https://health.chosun.com/site/data/img_dir/2014/09/19/2014091902808_1.jpg"
+      }
+    ]
+  },
+  {
+    "title": "5070커플끼리 남미 5개국 36일",
+    "contents": "5070 플이나 부부끼리 남미 5개국 여행, 아마존에서 이스터섬까지 방문하는 느린 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220525/012a0d81ca921.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6570f37d18dd7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/52165cca6c370.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ae663a0d2c2d1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9c93c18da2217.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c2d791d67577c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/aeb901758fa4c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/900f11fb40a5c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/01c49c045c884.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c882d4d226aa3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6214c91d60b62.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/67bf74ea6202d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/aad927a7839ec.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d4394141ac226.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0828f5fa37214.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e0d4329aa6782.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5353fef9d5a4d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ea4fec789c8d9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6904c19f844a0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e3995fef15a24.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b7cbfc2003b1f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/eeb267ad638f1.jpg"
+    ],
+    "price": "가격문의",
+    "period": 36,
+    "start": [
+      20220722, 20220725, 20220728, 20220729, 20220730, 20220802, 20220803,
+      20220805, 20220806, 20220809, 20220811, 20220813, 20220815, 20220816,
+      20220817, 20220819, 20220821, 20220822
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "6070",
+    "destination": "america",
+    "deadline": 10,
+    "available": false,
+    "news": [
+      {
+        "title": "[톡톡 지구촌] 모아이 석상 152년 만에 귀향…칠레 본토서 이스터섬으로",
+        "content": "칠레 수도 산티아고의 국립자연사박물관에서 춤을 추며 노래를 부르는 이스터섬 원주민들!",
+        "img": "https://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2022/02/23/280_5401484.jpg"
+      },
+      {
+        "title": "서태지 MV 속 칠레 이스터섬, 가장 가보고 싶은 촬영지 1위",
+        "content": "이날 주제를 함께 알아볼 인턴기자로 온앤오프 효진과 와이엇이 출연했다. MC들이 와이엇의 중저음 목소리에 놀라자 와이엇은 “효진이 형보다 한 살 어린데 사람들이 형인 줄 안다. 26살이다”라고 밝혔다.",
+        "img": "https://photo.newsen.com/news_photo/2020/07/15/202007152007411610_2.jpg"
+      },
+      {
+        "title": "새를 숭배한 ‘이스터 섬’",
+        "content": "남태평양의 맨 끝에 언제, 누가 세웠는지 모를 거대한 조각상인 모아이(Moai)들이 바다를 향해 서 있는 신비로운 섬이 있다. 1722년 4월5일 이 섬을 발견한 네덜란드 선장 로헤빈과 선원들은 그 날이 부활절(Easter)임을 기념해 이 섬을 ‘이스터섬’으로 명명했다.",
+        "img": "https://img.khan.co.kr/news/2007/06/14/7f14k06a.webp"
+      }
+    ]
+  },
+  {
+    "title": "액티브 시니어의 아프리카 8개국 27일",
+    "contents": "5070 액티브 시니어들에게 특화된 아프리카 여정, 사파리 중 텐트 숙박 없이 롯지에서 지낸다!",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/fa9d29f35f77a.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f93f2ead7bde8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d64a12f371b48.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b0487ed48b64f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fa572fb0297ad.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c9dea38faa4b8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ff9d7cee44469.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5057413f4f14c.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/53b953e1f25ea.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b9fe7a9e3656a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7a4dfa30b71a4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7fab7478b52de.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/509ad7541257b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c7ed945a60130.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/82d856731e0e7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c6f2a6b43936.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c684ee59622c7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/797a7df3568a4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d131a0d34864a.jpg"
+    ],
+    "price": 9890000,
+    "period": 27,
+    "start": [
+      20220723, 20220725, 20220730, 20220802, 20220803, 20220805, 20220808,
+      20220809, 20220815, 20220816, 20220817, 20220822
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "6070",
+    "destination": "africa",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "아프리카 1호 ‘새마을학과’ 에티오피아에서도 문연다",
+        "content": "영남대학교(총장 최외출)와 에티오피아 웨라베대학교(Werabe University)가 새마을경제개발학과 설립 및 새마을운동연구센터 개소를 위한 업무협약을 체결했다. 6월 30일 오후 3시 30분 영남대 본부본관 3층 대회의실에서 열린 이번 협약 체결식에는 웨라베대학교 토우픽",
+        "img": "https://www.job-post.co.kr/news/photo/202207/56840_57166_434.png"
+      },
+      {
+        "title": "대구파티마병원, 탄자니아에 의료 물품 지원",
+        "content": "탄자니아 희망 나눔 캠페인은 대구파티마병원과 파티마 성모자선회가 탄자니아 지역에서 의료 선교 사업을 수행 중인 수녀회와 병원에 물품을 지원하는 것으로, 지난 2월 직원들의 물품 모으기로 시작됐다.",
+        "img": "https://www.idaegu.co.kr/news/photo/202206/2022060201000043200001751.jpg"
+      },
+      {
+        "title": "[제임스리의 여행칼럼] 밖으로 나가면 세계가 보인다-보츠와나 여행기(2) “사진으로 보는 ‘쵸베 국립공원’",
+        "content": "이번 호는 자연과 동물이 함께 어우러진 ‘쵸베 국립공원’ 사진 중 나머지 부분을 올립니다.",
+        "img": "http://www.lec.co.kr/news/photo/202008/720817_61889_1529.jpg"
+      }
+    ]
+  },
+  {
+    "title": "자녀동반 에티오피아&탄자니아 14일",
+    "contents": "자녀들을 동반한 가족끼리 떠나는 여행, 특화된 게임드라이브(사파리) 일정으로 야생 동물 관찰",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220331/c6e5c27808c63.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b2bf2e0110d22.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f2fd21e8848ef.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/78ad105521203.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/23b2e4855df46.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6768f7ac00232.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/874ad0aa09fb6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7ccdc13c36fb3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/af2be44800e09.jpg"
+    ],
+    "price": 5590000,
+    "period": 14,
+    "start": [
+      20220723, 20220725, 20220730, 20220802, 20220803, 20220805, 20220808,
+      20220809, 20220815, 20220816, 20220817, 20220822
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "family",
+    "destination": "africa",
+    "deadline": 35,
+    "available": true,
+    "news": [
+      {
+        "title": "서로 닮은 점 있어요 '에티오피아로 퍼진 한류'",
+        "content": "케이팝 가수들의 현지 공연이 열린 적은 아직 한 번도 없지만, 온라인 비대면 공연과 SNS 등을 통해 한류 콘텐츠를 즐기는 팬들이 눈에 띄게 늘었습니다.",
+        "img": "https://image.ytn.co.kr/general/jpg/2022/0710/202207101720454523_t.jpg"
+      },
+      {
+        "title": "에티오피아-수단 지도자 회동, 국경 분쟁 평화롭게 해결키로",
+        "content": "아비 총리는 최근 양국 간 전면전 우려를 불러일으킨 국경 분쟁과 관련해 자신이 케냐 수도 나이로비에서 수단 군정 지도자인 압델 파타 부르한 장군을 만났다며 이같이 전했다. 양 지도자는 나이로비에서 열린 지역 정상회의(IGAD)에 참석하는 자리를 빌려 회동한 것으로 알려졌다.",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2022/07/05/AKR20220705165200099_01_i_P4.jpg"
+      },
+      {
+        "title": "에티오피아 한국전 참전용사, 연세대 미래캠 연세글로벌헬스센터 방문",
+        "content": "에티오피아 참전용사 2명은 고령(89세, 87세)임에도 불구하고 건강한 모습으로 연세대 연세글로벌헬스센터 방문 일정을 소화했다. 이들은 “연세대를 방문해 매우 기쁘며 한국 사람들과 함께 부른 아리랑 노래는 가평과 화천 지역에서 전투를 하던 당시의 추억을 생각나게 해서 더욱 의미있었다”고 소감을 전했다.",
+        "img": "http://cdn.news.unn.net/news/photo/202207/530853_335572_3514.jpg"
+      }
+    ]
+  },
+  {
+    "title": "커플들만 남아프리카 5개국 14일",
+    "contents": "커플 또는 부부끼리 출발하는 아프리카 여행, 항공 이동 5회로 장거리 육로 이동 없는 편한 일정",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/1d9bca63b503a.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9d00e516b1ec7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c838a12d5c2cc.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/11ff97d3d7bb2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4d8e5c3eb7203.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/395e6f03466e2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d40618d04d657.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/267bdb696dfb5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d2a933bde0171.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/38e33681ed127.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b4e885012f1f4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f84943e6f6fa0.jpg"
+    ],
+    "price": 3790000,
+    "period": 14,
+    "start": [
+      20220726, 20220728, 20220730, 20220804, 20220806, 20220807, 20220808,
+      20220814, 20220821
+    ],
+    "theme": "rest",
+    "style": "full",
+    "group": "2030",
+    "destination": "africa",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "한전KPS, 남아프리카공화국 대학생에 장학금 지급, 신뢰 증진·매출 성장",
+        "content": "5월 16일(현지 시각) 한전KPS는 남아프리카공화국 케이프타운 대학교 재학생 12명에게 각 6만 랜드(한화 약 480만원) 총 72만 랜드(약 6천만원)의 장학금을 전달했다.",
+        "img": "https://www.pressian.com/_resources/10/2022/05/18/2022051816552498325_l.jpg"
+      },
+      {
+        "title": "무지개 나라…'있는 그대로 남아프리카공화국'",
+        "content": "'있는 그대로 남아프리카공화국'(초록비책공방)은 2009년부터 남아프리카공화국에서 살고 있는 저자가 직접 경험한 남아프리카공화국의 모습을 담았다.",
+        "img": "https://image.newsis.com/2022/04/07/NISI20220407_0000969824_web.jpg?rnd=20220407175319"
+      },
+      {
+        "title": "[EBS 세계테마기행] 함길수와 함께 남아프리카 공화국 “테이블마운틴·희망봉·치치캄마숲·바소토족목동”",
+        "content": "그리스 신화 제우스에게 패배해 돌이 된 거인족 아틀라스의 전서링 깃들어 있는 바다! 따뜻한 만남과 그리운 인연. 우리는 그 바다를 아틀라스의 바다, 대서양(Atlantic Ocean)이라고 부른다. 현재 그 바다는 향신료와 황금을 찾은 정복자들이 독차지했다.",
+        "img": "http://cdn.lecturernews.com/news/photo/202202/88811_302594_5722.png"
+      }
+    ]
+  },
+  {
+    "title": "2030들만 에티오피아 7일",
+    "contents": "에티오피아 오지를 탐험하는 2030끼리만의 여행, 남여 누구나 참여할 수 있는 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220402/d92fdef0b0c3e.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5444c020d1660.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/67af1d0df26e3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/15ab1b9303413.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0c41fde91884a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5305e8368afb0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1a23a2c677454.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/65ff003502df7.jpg"
+    ],
+    "price": 1690000,
+    "period": 7,
+    "start": [
+      20220726, 20220728, 20220730, 20220804, 20220806, 20220807, 20220808,
+      20220814, 20220821
+    ],
+    "theme": "culture",
+    "style": "semi",
+    "group": "2030",
+    "destination": "africa",
+    "deadline": 25,
+    "available": true,
+    "news": [
+      {
+        "title": "아프리카 1호 새마을학과, 에티오피아에 꽃 피운다",
+        "content": "에티오피아 종합대학 5위권 진입을 목표로 빠르게 성장하고 있는 대학",
+        "img": "https://image.newsis.com/2022/07/05/NISI20220705_0001034577_web.jpg?rnd=20220705103456"
+      },
+      {
+        "title": "에티오피아 출신 난민 신청자 ‘아뎀’씨의 출산",
+        "content": "인천시와 인천관광공사는 지역 의료기관과 연계해 소외계층 외국인환자를 위한 ‘2022년 무료 나눔의료 사업’을 실시한다고 밝혔다.",
+        "img": "https://cdn.incheonnews.com/news/photo/202207/408102_207697_030.png"
+      },
+      {
+        "title": "에티오피아 수도 아디스아바바서 통일 공감 강연회 열려",
+        "content": "민주평화통일자문회의 아프리카협의회(회장 임창순)가 주최하고 동부지회(회장 김승미)와 에티오피아분회(회장 박형숙)가 주관하는 강석희 주에티오피아대사 초청 통일공감 강연회가 지난 7월 4일 에티오피아 수도 아디스아바바 소재 스카이라이트호텔에서 열렸다. ",
+        "img": "http://www.dongponews.net/news/photo/202207/46100_111729_321.jpg"
+      }
+    ]
+  },
+  {
+    "title": "50세 이상 여자끼리 모로코&튀니지 15일",
+    "contents": "50세 이상 여성이면 누구나 참가하는 여행, 북아프리카의 아름다운 나라 모로코와 튀니지",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220422/6877f7ece9f24.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/18193169c17bf.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/02d3343958bbf.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0fdd49fd32663.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9fa63692ae124.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4d3f8b2bc088a.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/02b541cef46d4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/44b6b00e40b44.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6c1c2b131a713.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fb28c7046f4c9.jpg"
+    ],
+    "price": "가격문의",
+    "period": 15,
+    "start": [
+      20220727, 20220729, 20220730, 20220804, 20220806, 20220807, 20220812,
+      20220814, 20220820
+    ],
+    "theme": "culture",
+    "style": "full",
+    "group": "6070",
+    "destination": "africa",
+    "deadline": 8,
+    "available": false,
+    "news": [
+      {
+        "title": "산림청 韓-모로코 제1차 산림협력위원회 개최",
+        "content": "산림청은 지난 29일 모로코 라바트에서 모로코 국가수자원산림청과 '제1차 한-모로코 산림협력위원회'를 개최하고 양국 간 산림협력 활성화를 도모했다고 30일 밝혔다.",
+        "img": "https://thumb.mt.co.kr/06/2022/06/2022063010385249939_1.jpg/dims/optimize/"
+      },
+      {
+        "title": "모로코 나우 브랜드 한국 런칭 기념 세리머니",
+        "content": "남성현 산림청장(오른쪽 두 번째)이 지난 5일 서울 중구 롯데호텔에서 열린 '모로코 나우 칵테일 디너 및 네트워킹 세션'에서 샤픽 라샤디 주한 모로코 대사(왼쪽 두 번째) 등 참석자들과 모로코 나우 브랜드 한국 런칭 기념 세리머니를 하고 있다.",
+        "img": "https://image.news1.kr/system/photos/2022/7/6/5461896/article.jpg"
+      },
+      {
+        "title": "주한 모로코 대사와 악수하는 남성현 산림청장",
+        "content": "남성현 산림청장(오른쪽)이 지난 5일 서울 중구 롯데호텔에서 열린 '모로코 나우 칵테일 디너 및 네트워킹 세션'에 참석해 샤픽 라샤디 주한 모로코 대사와 악수하고 있다",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2022/07/06/PYH2022070600680001300_P4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "트레킹 없는 히말라야 라다크 12일",
+    "contents": "등산은 싫지만 산을 좋아하는 인도 라다크의 히말라야 산맥을 지프로 횡단하는 일정",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/bd75b524d0112.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e01be3c5e2d1e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2e36de3aec95d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/dd0e79d376dfe.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7bc99347fd623.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1b75e8fe1f5e3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0868f2b93899b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6dc32bb59d544.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/35f5dde66b7da.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/12d8cb77e9e5e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ba964fdbd43a4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/876edc8514689.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1bd4bd31e11b2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7a863ccadea68.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/608f1c96d21f2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/037cc41598ded.jpg"
+    ],
+    "price": 1990000,
+    "period": 12,
+    "start": [
+      20220725, 20220727, 20220730, 20220822, 20220826, 20220829, 20220912,
+      20220907, 20221003
+    ],
+    "theme": "culture",
+    "style": "semi",
+    "group": "2030",
+    "destination": "pacific",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "하늘을 담은 듯한 신비로운 빛, 아시아 최대 기수호",
+        "content": "영화 ‘세 얼간이’의 엔딩 장면 촬열지, 해발 4000m에 있는 아시아에서 가장 큰 기수호(汽水湖)",
+        "img": "http://www.jejuilbo.net/news/photo/202110/171841_111823_3532.gif"
+      },
+      {
+        "title": "인도 라다크 (상) 세계에서 가장 높은 자동차도로 카르둥라",
+        "content": "진한 코발트빛 하늘과 순백색의 설산인 세계에서 가장 높은 도로인 카르둥라 고개를 넘고 있다.",
+        "img": "http://www.knnews.co.kr/edb/nimages/2019/06/2019062521125213998.jpg"
+      },
+      {
+        "title": "‘히말라야 라다크의 화가’ 이상열 25번째 개인전",
+        "content": "울산에서 시인이자 동양화가로 활동하고 있는 이상열 작가의 25번째 개인전이 1일 개막했다.",
+        "img": "http://www.ujeil.com/news/photo/202112/291757_126116_520.jpg"
+      }
+    ]
+  },
+  {
+    "title": "4050들만의 라자스탄 궁전호텔 9일",
+    "contents": "시간여행을 하는 듯한 화려한 색채의 향연의 인도 라자스탄 일주",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/52a9b5f8b412d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/66302e8a089b2.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9d73c75716319.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c472dda12d1c8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/94a4cb1de1be6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/f9e715efff9e0.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ab858a5181526.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/798ee94d1e509.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/cf1afa03065f6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a5fe56cfccc9b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/061ed21382861.jpg"
+    ],
+    "price": 1890000,
+    "period": 9,
+    "start": [
+      20220723, 20220725, 20220727, 20220730, 20220822, 20220826, 20220829,
+      20220905, 20220907, 20221003
+    ],
+    "theme": "rest",
+    "style": "semi",
+    "group": "4050",
+    "destination": "pacific",
+    "deadline": 24,
+    "available": true,
+    "news": [
+      {
+        "title": "우리가 상상하던 인도의 모습, 라자스탄",
+        "content": "라자스탄엔 우리가 생각하는 인도의 이미지가 오롯이 남아 있다.",
+        "img": "https://cdn.travie.com/news/photo/201807/20456_896_06.jpg"
+      },
+      {
+        "title": "인도 라자스탄 ‘우다이푸르’",
+        "content": "‘인도의 베니스’라는 별명가진 라자스탄의 호수 도시 우다이푸르도(Udaipur)",
+        "img": "https://image.dnews.co.kr/photo/photo/2019/10/28/201910241321064000081-2-132936.jpg"
+      },
+      {
+        "title": "오리온, 인도 라자스탄주에 5300평 규모 생산기지 건립",
+        "content": "오리온은 지난 22일(현지시각) 인도 라자스탄주에서 공장 준공식을 열고 제품 생산에 돌입한다.",
+        "img": "https://cdn.pressm.kr/news/photo/202102/40757_30680_5855.jpg"
+      }
+    ]
+  },
+  {
+    "title": "커플들만 북인도 & 라자스탄 궁전호텔 14일",
+    "contents": "궁전호텔 체험 인도 북부와 라자스탄주 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/41d7d1473649d.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a6a67d4a3b1ca.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3a6dc39d016c7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/59235c51f5519.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/efcf80b98a4b7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9485b504b98a8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b92f0fca86a75.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fce01455f72b8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/83c03dd116539.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1f2fb1dc8112e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fbc60da7a2d7d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/6498ebc2433e4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7ba73150edde8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ce2b81234952b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9adb8f96d3a3d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c0c187dd0de12.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5b5641ede0113.jpg"
+    ],
+    "price": 2990000,
+    "period": 14,
+    "start": [
+      20220723, 20220725, 20220727, 20220729, 20220730, 20220822, 20220826,
+      20220829, 20220912
+    ],
+    "theme": "rest",
+    "style": "semi",
+    "group": "3040",
+    "destination": "pacific",
+    "deadline": 38,
+    "available": "true",
+    "news": [
+      {
+        "title": "북인도 여행 - 델리의 쿠틉 미나르 유적군",
+        "content": "쿠틉 미나르는 이슬람이 660년간 델리를 통치한 시작의 상징이다",
+        "img": "http://www.siminsori.com/news/photo/202008/222799_71864_851.jpg"
+      },
+      {
+        "title": "1440개 대리석 기둥으로 세워진 자이나교의 ‘걸작’",
+        "content": "1440개의 대리석 기둥으로 세워진 인도에서 가장 아름다운 사원인 라낙푸르 자이나교 사원군(Ranakpur Jain Temples)",
+        "img": "http://www.jejuilbo.net/news/photo/201803/80992_49372_2416.jpg"
+      },
+      {
+        "title": "인도 여행, 블루시티 조드푸르에서 지친 심신을 달래다",
+        "content": "골목골목 돌아다니며 발견하는 다채로운 문화를 가진 인도, 푸른 건물이 많아 '블루시티'라고 불린다.",
+        "img": "https://pbs.twimg.com/media/DdSLJY6VMAABpKV.png"
+      }
+    ]
+  },
+  {
+    "title": "여자들만 남인도&스리랑카 13일",
+    "contents": "편한 일정과 자유로운 남인도 스리랑카 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/251aff49b9b8f.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/3dd0e2ee8b14b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c387581b96c42.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/8ce4c9eb08ffa.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e54cfb871715b.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/10217bca74cfa.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7262a0477ce2f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/70acd080164de.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2ce0efc2c75ec.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4c4879cb4a1d5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/afe1bc9877dd3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bb4940a735a49.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/9fb09aa9ffed7.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2a5bae33d8d1d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fc6faf59f3d8d.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/10e0ae8e5ac27.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/70c0b2d1d69f8.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/cdeea61563e7f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a9205c99eec65.jpg"
+    ],
+    "price": 2590000,
+    "period": 13,
+    "start": [
+      220723, 20220725, 20220727, 20220730, 20220822, 20220826, 20220829,
+      20220905, 20220907, 20221003
+    ],
+    "theme": "culture",
+    "style": "semi",
+    "group": "female",
+    "destination": "pacific",
+    "deadline": 20,
+    "available": true,
+    "news": [
+      {
+        "title": "다시 스리랑카, 때묻지 않은 꿈의 여행지",
+        "content": "8개의 유네스코 세계문화자연유산을 보유한 '인도양의 진주', 마주치는 곳곳에서 태양처럼 빛나던 스리랑카인들의 환한 미소",
+        "img": "https://img.hankyung.com/photo/202205/AD.30123650.1.jpg"
+      },
+      {
+        "title": "스리랑카에서 ‘퀴즈 온 코리아’, ‘K-Pop 월드 페스티벌’ 예선전",
+        "content": "콜롬보에 있는 Sugathadasa Indoor Stadium에서 ‘퀴즈 온 코리아(Quiz on Korea)’ 지역 예선전을 열었다",
+        "img": "https://www.worldkorean.net/news/photo/202206/44367_65179_3257.jpg"
+      },
+      {
+        "title": "작은 천국, 스리랑카로 떠나야 하는 세 가지 이유",
+        "content": "스리랑카는 아름다운 해변과 연중 온화한 기후를 지닌 남부 지역과 선선한 산간 지역, 고대 문명 유적지, 야생 사파리 등 볼거리가 다양한 곳",
+        "img": "https://cdn.traveltimes.co.kr/news/photo/202112/113839_12419_619.jpg"
+      }
+    ]
+  },
+  {
+    "title": "남여 직장인들만 스리랑카 6일",
+    "contents": "싱글들만 출발하는 짧은 일정으로 스리랑카 핵심 여행지 탐방",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/1f0be320c17fc.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/25b1b343b6a38.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/94d7a6e829bde.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1b6552e9c53e3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c2c7198fa3340.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5260d176485bb.jpg"
+    ],
+    "price": 890000,
+    "period": 6,
+    "start": [
+      20220723, 20220724, 20220727, 20220729, 20220730, 20220802, 20220806,
+      20220819, 20220905, 20220907, 20221003
+    ],
+    "theme": "culture",
+    "style": "semi",
+    "group": "2030",
+    "destination": "pacific",
+    "deadline": 30,
+    "available": false,
+    "news": [
+      {
+        "title": "자유롭게 힐링하는 웰니스 여행지 스리랑카",
+        "content": "여행레저 전문지 Conde Nast Traveller의 <2021 리더스 초이스 어워드>에서 최고의 여행지 5개국 중 하나로 선정되기도 했다.",
+        "img": "https://cdn.traveltimes.co.kr/news/photo/202112/113839_12427_5048.jpg"
+      },
+      {
+        "title": "모험과 호기심, '찬란히 빛나는 섬' 스리랑카 여행",
+        "content": "스리랑카는 섬 고유의 특성을 잘 간직하면서도 신비로움",
+        "img": "https://newsimg.sedaily.com/2021/12/14/22VAFZUV9J_1.jpg"
+      },
+      {
+        "title": "올해의 여행, 스리랑카",
+        "content": "그림 같은 바위산과 울창한 정글을 지닌 아름다운 자연을 품은 나라.",
+        "img": "https://image.jtbcplus.kr/data/contents/jam_photo/202003/31/5ea6dd79-7f94-4540-994e-3926dfbf0f0b.jpg"
+      }
+    ]
+  },
+  {
+    "title": "자녀동반 북인도 궁전호텔 7일",
+    "contents": "인도인의 삶을 보며 자녀들에게 교훈을 줄 수 있는 풀패키지 여행 ",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220330/5361c80ba72c5.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/fc1a3fba49fc1.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1edb5d55493a5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/84183335e2297.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/1b71b87ec9b4f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/44e9dee06d065.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/e40c4153c600f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/94bc2b218fde3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/24e486b912ab3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/90920c2ffc9ff.jpg"
+    ],
+    "price": 1140000,
+    "period": 7,
+    "start": [
+      20220723, 20220726, 20220727, 20220731, 20220802, 20220806, 20220819,
+      20220905, 20220907, 20221003
+    ],
+    "theme": "culture",
+    "style": "pull",
+    "group": "family",
+    "destination": "pacific",
+    "deadline": 50,
+    "available": true,
+    "news": [
+      {
+        "title": "삶의 쉼표를 찍다 북인도·네팔 여행",
+        "content": "호수를 중심으로 늘어진 건물들도 평화로운 우다이푸르에 분위기가 좋은 북인도 여행지다.",
+        "img": "http://www.jbnews.com/news/photo/201707/801697_510469_4535.jpg"
+      },
+      {
+        "title": "핑크시티' 인도 자이푸르의 또 다른 매력",
+        "content": "도시 전체가 핑크 빛으로 물든 풍경을 만날 수 있는 곳, 바로 인도와 파키스탄이 국경을 맞대고 있는 라자스탄의 주도 자이푸르다",
+        "img": "https://file2.nocutnews.co.kr/newsroom/image/2017/07/24/20170724145644812646.jpg"
+      },
+      {
+        "title": "바람의 궁전 '하와 마할'이 들려준 분홍빛 도시 이야기",
+        "content": "왕실과 하렘의 여인들이 모습을 드러낼 걱정 없이 자이푸르 시장의 활기 넘치는 광경을 마음껏 즐길 수 있도록 건축한 곳이다.",
+        "img": "http://ojsfile.ohmynews.com/STD_IMG_FILE/2014/0103/IE001663680_STD.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "자녀동반 남인도 9일",
+    "contents": "자녀들과 함께 가는 상상 이상의 남인도 명승지와 수로유람을 체험하는 여행",
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220401/fc5ec9692578c.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/db4378bf83c5e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/bf1d3b674d9fc.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b070e1f884c91.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d3fe3ea005771.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/47d98a39e5f6e.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d22e91b6ce0ca.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/7e7d025bea8a3.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/4bd6ead412291.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/48b904e920e46.jpg"
+    ],
+    "price": 1690000,
+    "period": 9,
+    "start": [
+      20220723, 20220725, 20220726, 20220728, 20220729, 20220730, 20220807,
+      20220809, 202208213, 20220816
+    ],
+    "theme": "culture",
+    "style": "semi",
+    "group": "family",
+    "destination": "pacific",
+    "deadline": 40,
+    "available": true,
+    "news": [
+      {
+        "title": "인도의 베니스 알라뿌자",
+        "content": "알라뿌자(Alappuzha)에서는 수로를 따라 한가로이 떠다니는 유람선 여행이 하 이라이트로 손꼽힌다.",
+        "img": "https://blogfiles.pstatic.net/20160210_136/gkfao1205_1455110129665Bgy6B_JPEG/IMG_4034.JPG"
+      },
+      {
+        "title": "인도 여행의 ‘스리미낙시 사원’",
+        "content": "고푸람의 기단은 견고한 석재로 건축되어 있고, 수직으로 우뚝 선 사다리꼴 모양의 탑신은 벽돌로 쌓아 올렸습니다.",
+        "img": "http://ojsfile.ohmynews.com/STD_IMG_FILE/2014/0408/IE001698572_STD.JPG"
+      },
+      {
+        "title": "남인도, 자연을 품은 신비로운 사원 즐비",
+        "content": "아름다운 사원과 수려한 풍경, 어느 곳 하나 제외시킬 수 없을 만큼 많은 볼거리가 사방으로 흩어져 있다.",
+        "img": "https://thumb.wishbeen.com/xDeX2QUWI21yG0hjm-JgsEiklBk=/898x420/smart/filters:no_upscale()/wishbeen-seoul.s3.ap-northeast-2.amazonaws.com/spot/1377442556390_New_Delhi_Temple.jpg"
+      }
+    ]
+  },
+  {
     "title": "2070의 코발트빛 바다 크루즈 항해 10일",
     "contents": "산토리니 크레타 미코노스 로도스 크루즈 모든 것이 포함된 풀패키지 여행",
     "image": [
@@ -66,7 +1465,7 @@
     "style": "full",
     "group": "6070",
     "destination": "eu",
-    "deadline": 0,
+    "deadline": 13,
     "available": true,
     "news": [
       {
@@ -109,7 +1508,7 @@
     "style": "full",
     "group": "6070",
     "destination": "eu",
-    "deadline": 0,
+    "deadline": 15,
     "available": true,
     "news": [
       {
@@ -157,8 +1556,8 @@
     "style": "full",
     "group": "family",
     "destination": "eu",
-    "deadline": 0,
-    "available": false,
+    "deadline": 15,
+    "available": true,
     "news": [
       {
         "title": "지중해의 숨은 보석… 기사도의 섬, 몰타",
@@ -197,7 +1596,7 @@
     "style": "semi",
     "group": "6070",
     "destination": "eu",
-    "deadline": 0,
+    "deadline": 20,
     "available": true,
     "news": [
       {
@@ -220,7 +1619,26 @@
   {
     "title": "영화 사랑인의 시칠리아 일주 9일",
     "contents": "영화를 좋아하는 누구나 참가하는 시칠리아 일주 여행 영화 '대부', '시네마천국', '그랑블루'의 무대 속으로...",
-    "image": ["https://cdn.imweb.me/thumbnail/20220427/1d1eed9f43737.png"],
+    "image": [
+      "https://cdn.imweb.me/thumbnail/20220427/1d1eed9f43737.png",
+      "https://cdn.imweb.me/upload/S202107158604372051740/8883175dcaa10.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b7bbda5b96035.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/16d266f69b845.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d94aace2e69d9.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/35c182a316bf6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b33cd22fe5ac4.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/69f6047c2c300.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b1b32c91da54f.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/ee99b850e3098.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/5163c5a32f3ec.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/a08f9f99a64df.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/b66b596d8f6ac.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/43ea45be2dbe6.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/d00e1026332b5.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/0a30c1d7f6250.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/c918e67ff1237.jpg",
+      "https://cdn.imweb.me/upload/S202107158604372051740/2a31fc3d42514.jpg"
+    ],
     "price": 4390000,
     "period": 9,
     "start": [],
@@ -228,7 +1646,7 @@
     "style": "full",
     "group": "family",
     "destination": "eu",
-    "deadline": 0,
+    "deadline": 15,
     "available": false,
     "news": [
       {
