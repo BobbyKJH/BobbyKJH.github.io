@@ -1,0 +1,28 @@
+{
+  "all_cheese": [
+    {
+      "id": 0,
+      "cal": "35.3 kcal",
+      "eng_name": "American Cheese",
+      "img": "https://www.subway.co.kr/../images/menu/img_recipe_c01.jpg",
+      "name": "아메리칸 치즈",
+      "sum": null
+    },
+    {
+      "id": 1,
+      "cal": "53.6 kcal",
+      "eng_name": "Shredded Cheese",
+      "img": "https://www.subway.co.kr/../images/menu/img_recipe_c02.jpg",
+      "name": "슈레드 치즈",
+      "sum": null
+    },
+    {
+      "id": 2,
+      "cal": "43.8 kcal",
+      "eng_name": "Mozzarella Cheese",
+      "img": "https://www.subway.co.kr/../images/menu/img_recipe_c03.jpg",
+      "name": "모차렐라 치즈",
+      "sum": null
+    }
+  ]
+}
