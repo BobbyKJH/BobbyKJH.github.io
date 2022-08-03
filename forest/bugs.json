@@ -15,7 +15,7 @@
       "name-CNzh": "白粉蝶",
       "name-TWzh": "白粉蝶",
       "name_JPja": "モンシロチョウ",
-      "name-KRko": "배추흰나비",
+      "name_KRko": "배추흰나비",
       "name-EUru": "белянка"
     },
     "availability": {
@@ -53,7 +53,7 @@
       "name-CNzh": "斑缘点粉蝶",
       "name-TWzh": "斑緣點粉蝶",
       "name_JPja": "モンキチョウ",
-      "name-KRko": "노랑나비",
+      "name_KRko": "노랑나비",
       "name-EUru": "желтушка"
     },
     "availability": {
@@ -91,7 +91,7 @@
       "name-CNzh": "凤蝶",
       "name-TWzh": "鳳蝶",
       "name_JPja": "アゲハチョウ",
-      "name-KRko": "호랑나비",
+      "name_KRko": "호랑나비",
       "name-EUru": "махаон"
     },
     "availability": {
@@ -129,7 +129,7 @@
       "name-CNzh": "乌鸦凤蝶",
       "name-TWzh": "烏鴉鳳蝶",
       "name_JPja": "カラスアゲハ",
-      "name-KRko": "제비나비",
+      "name_KRko": "제비나비",
       "name-EUru": "бианор"
     },
     "availability": {
@@ -167,7 +167,7 @@
       "name-CNzh": "青带凤蝶",
       "name-TWzh": "青帶鳳蝶",
       "name_JPja": "アオスジアゲハ",
-      "name-KRko": "청띠제비나비",
+      "name_KRko": "청띠제비나비",
       "name-EUru": "графиум сарпедон"
     },
     "availability": {
@@ -205,7 +205,7 @@
       "name-CNzh": "大白斑蝶",
       "name-TWzh": "大白斑蝶",
       "name_JPja": "オオゴマダラ",
-      "name-KRko": "왕얼룩나비",
+      "name_KRko": "왕얼룩나비",
       "name-EUru": "идея левконоя"
     },
     "availability": {
@@ -243,7 +243,7 @@
       "name-CNzh": "大紫蛱蝶",
       "name-TWzh": "大紫蛺蝶",
       "name_JPja": "オオムラサキ",
-      "name-KRko": "왕오색나비",
+      "name_KRko": "왕오색나비",
       "name-EUru": "сасакия харонда"
     },
     "availability": {
@@ -281,7 +281,7 @@
       "name-CNzh": "大桦斑蝶",
       "name-TWzh": "大樺斑蝶",
       "name_JPja": "オオカバマダラ",
-      "name-KRko": "왕나비",
+      "name_KRko": "왕나비",
       "name-EUru": "монарх"
     },
     "availability": {
@@ -319,7 +319,7 @@
       "name-CNzh": "大蓝闪蝶",
       "name-TWzh": "大藍閃蝶",
       "name_JPja": "モルフォチョウ",
-      "name-KRko": "몰포나비",
+      "name_KRko": "몰포나비",
       "name-EUru": "морфо менелай"
     },
     "availability": {
@@ -357,7 +357,7 @@
       "name-CNzh": "彩袄蛱蝶",
       "name-TWzh": "彩襖蛺蝶",
       "name_JPja": "ミイロタテハ",
-      "name-KRko": "아그리아스나비",
+      "name_KRko": "아그리아스나비",
       "name-EUru": "агриас клаудина"
     },
     "availability": {
@@ -395,7 +395,7 @@
       "name-CNzh": "红颈凤蝶",
       "name-TWzh": "紅頸鳳蝶",
       "name_JPja": "アカエリトリバネアゲハ",
-      "name-KRko": "붉은목도리비단나비",
+      "name_KRko": "붉은목도리비단나비",
       "name-EUru": "трогоноптера Брука"
     },
     "availability": {
@@ -433,7 +433,7 @@
       "name-CNzh": "亚历山大凤蝶",
       "name-TWzh": "亞歷山大鳳蝶",
       "name_JPja": "アレキサンドラトリバネアゲハ",
-      "name-KRko": "알렉산드라비단제비나비",
+      "name_KRko": "알렉산드라비단제비나비",
       "name-EUru": "птицекрылка Александры"
     },
     "availability": {
@@ -471,7 +471,7 @@
       "name-CNzh": "飞蛾",
       "name-TWzh": "飛蛾",
       "name_JPja": "ガ",
-      "name-KRko": "나방",
+      "name_KRko": "나방",
       "name-EUru": "павлиноглазка"
     },
     "availability": {
@@ -509,7 +509,7 @@
       "name-CNzh": "皇蛾",
       "name-TWzh": "皇蛾",
       "name_JPja": "ヨナグニサン",
-      "name-KRko": "아틀라스나방",
+      "name_KRko": "아틀라스나방",
       "name-EUru": "павлиноглазка атлас"
     },
     "availability": {
@@ -547,7 +547,7 @@
       "name-CNzh": "日落蛾",
       "name-TWzh": "日落蛾",
       "name_JPja": "ニシキオオツバメガ",
-      "name-KRko": "마다가스카르비단제비나방",
+      "name_KRko": "마다가스카르비단제비나방",
       "name-EUru": "урания мадагаскарская"
     },
     "availability": {
@@ -585,7 +585,7 @@
       "name-CNzh": "中华剑角蝗",
       "name-TWzh": "中華劍角蝗",
       "name_JPja": "ショウリョウバッタ",
-      "name-KRko": "방아깨비",
+      "name_KRko": "방아깨비",
       "name-EUru": "акрида"
     },
     "availability": {
@@ -623,7 +623,7 @@
       "name-CNzh": "飞蝗",
       "name-TWzh": "飛蝗",
       "name_JPja": "トノサマバッタ",
-      "name-KRko": "섬풀무치",
+      "name_KRko": "섬풀무치",
       "name-EUru": "перелетная саранча"
     },
     "availability": {
@@ -661,7 +661,7 @@
       "name-CNzh": "稻蝗",
       "name-TWzh": "稻蝗",
       "name_JPja": "イナゴ",
-      "name-KRko": "메뚜기",
+      "name_KRko": "메뚜기",
       "name-EUru": "рисовая кобылка"
     },
     "availability": {
@@ -699,7 +699,7 @@
       "name-CNzh": "蚱蜢",
       "name-TWzh": "蚱蜢",
       "name_JPja": "キリギリス",
-      "name-KRko": "여치",
+      "name_KRko": "여치",
       "name-EUru": "кузнечик"
     },
     "availability": {
@@ -737,7 +737,7 @@
       "name-CNzh": "蟋蟀",
       "name-TWzh": "蟋蟀",
       "name_JPja": "コオロギ",
-      "name-KRko": "귀뚜라미",
+      "name_KRko": "귀뚜라미",
       "name-EUru": "сверчок"
     },
     "availability": {
@@ -775,7 +775,7 @@
       "name-CNzh": "铃虫",
       "name-TWzh": "鈴蟲",
       "name_JPja": "スズムシ",
-      "name-KRko": "방울벌레",
+      "name_KRko": "방울벌레",
       "name-EUru": "домашний сверчок"
     },
     "availability": {
@@ -813,7 +813,7 @@
       "name-CNzh": "螳螂",
       "name-TWzh": "螳螂",
       "name_JPja": "カマキリ",
-      "name-KRko": "사마귀",
+      "name_KRko": "사마귀",
       "name-EUru": "богомол"
     },
     "availability": {
@@ -851,7 +851,7 @@
       "name-CNzh": "兰花螳螂",
       "name-TWzh": "蘭花螳螂",
       "name_JPja": "ハナカマキリ",
-      "name-KRko": "연꽃사마귀",
+      "name_KRko": "연꽃사마귀",
       "name-EUru": "орхидейный богомол"
     },
     "availability": {
@@ -889,7 +889,7 @@
       "name-CNzh": "蜜蜂",
       "name-TWzh": "蜜蜂",
       "name_JPja": "ミツバチ",
-      "name-KRko": "꿀벌",
+      "name_KRko": "꿀벌",
       "name-EUru": "восковая пчела"
     },
     "availability": {
@@ -927,7 +927,7 @@
       "name-CNzh": "黄蜂",
       "name-TWzh": "黃蜂",
       "name_JPja": "ハチ",
-      "name-KRko": "벌",
+      "name_KRko": "벌",
       "name-EUru": "оса"
     },
     "availability": {
@@ -968,7 +968,7 @@
       "name-CNzh": "油蝉",
       "name-TWzh": "油蟬",
       "name_JPja": "アブラゼミ",
-      "name-KRko": "유지매미",
+      "name_KRko": "유지매미",
       "name-EUru": "коричневая цикада"
     },
     "availability": {
@@ -1006,7 +1006,7 @@
       "name-CNzh": "斑透翅蝉",
       "name-TWzh": "斑透翅蟬",
       "name_JPja": "ミンミンゼミ",
-      "name-KRko": "참매미",
+      "name_KRko": "참매미",
       "name-EUru": "певчая цикада"
     },
     "availability": {
@@ -1047,7 +1047,7 @@
       "name-CNzh": "熊蝉",
       "name-TWzh": "熊蟬",
       "name_JPja": "クマゼミ",
-      "name-KRko": "곰매미",
+      "name_KRko": "곰매미",
       "name-EUru": "гигантская цикада"
     },
     "availability": {
@@ -1088,7 +1088,7 @@
       "name-CNzh": "寒蝉",
       "name-TWzh": "寒蟬",
       "name_JPja": "ツクツクホウシ",
-      "name-KRko": "애매미",
+      "name_KRko": "애매미",
       "name-EUru": "горная цикада"
     },
     "availability": {
@@ -1129,7 +1129,7 @@
       "name-CNzh": "暮蝉",
       "name-TWzh": "暮蟬",
       "name_JPja": "ヒグラシ",
-      "name-KRko": "쓰르라미",
+      "name_KRko": "쓰르라미",
       "name-EUru": "ночная цикада"
     },
     "availability": {
@@ -1170,7 +1170,7 @@
       "name-CNzh": "蝉蜕",
       "name-TWzh": "蟬蛻",
       "name_JPja": "セミのぬけがら",
-      "name-KRko": "매미 허물",
+      "name_KRko": "매미 허물",
       "name-EUru": "кокон цикады"
     },
     "availability": {
@@ -1211,7 +1211,7 @@
       "name-CNzh": "红蜻蜓",
       "name-TWzh": "紅蜻蜓",
       "name_JPja": "アキアカネ",
-      "name-KRko": "고추잠자리",
+      "name_KRko": "고추잠자리",
       "name-EUru": "красная стрекоза"
     },
     "availability": {
@@ -1249,7 +1249,7 @@
       "name-CNzh": "绿胸晏蜓",
       "name-TWzh": "綠胸晏蜓",
       "name_JPja": "ギンヤンマ",
-      "name-KRko": "왕잠자리",
+      "name_KRko": "왕잠자리",
       "name-EUru": "дозорщик"
     },
     "availability": {
@@ -1287,7 +1287,7 @@
       "name-CNzh": "无霸勾蜓",
       "name-TWzh": "無霸勾蜓",
       "name_JPja": "オニヤンマ",
-      "name-KRko": "장수잠자리",
+      "name_KRko": "장수잠자리",
       "name-EUru": "кордулегастер"
     },
     "availability": {
@@ -1325,7 +1325,7 @@
       "name-CNzh": "豆娘",
       "name-TWzh": "豆娘",
       "name_JPja": "イトトンボ",
-      "name-KRko": "실잠자리",
+      "name_KRko": "실잠자리",
       "name-EUru": "равнокрылая стрекоза"
     },
     "availability": {
@@ -1366,7 +1366,7 @@
       "name-CNzh": "萤火虫",
       "name-TWzh": "螢火蟲",
       "name_JPja": "ホタル",
-      "name-KRko": "반디",
+      "name_KRko": "반디",
       "name-EUru": "светлячок"
     },
     "availability": {
@@ -1404,7 +1404,7 @@
       "name-CNzh": "蝼蛄",
       "name-TWzh": "螻蛄",
       "name_JPja": "オケラ",
-      "name-KRko": "땅강아지",
+      "name_KRko": "땅강아지",
       "name-EUru": "медведка"
     },
     "availability": {
@@ -1445,7 +1445,7 @@
       "name-CNzh": "水黾",
       "name-TWzh": "水黽",
       "name_JPja": "アメンボ",
-      "name-KRko": "소금쟁이",
+      "name_KRko": "소금쟁이",
       "name-EUru": "водомерка"
     },
     "availability": {
@@ -1483,7 +1483,7 @@
       "name-CNzh": "龙虱",
       "name-TWzh": "龍蝨",
       "name_JPja": "ゲンゴロウ",
-      "name-KRko": "물방개",
+      "name_KRko": "물방개",
       "name-EUru": "плавунец"
     },
     "availability": {
@@ -1521,7 +1521,7 @@
       "name-CNzh": "田鳖",
       "name-TWzh": "田鱉",
       "name_JPja": "タガメ",
-      "name-KRko": "물장군",
+      "name_KRko": "물장군",
       "name-EUru": "водяной клоп-гигант"
     },
     "availability": {
@@ -1559,7 +1559,7 @@
       "name-CNzh": "椿象",
       "name-TWzh": "椿象",
       "name_JPja": "カメムシ",
-      "name-KRko": "노린재",
+      "name_KRko": "노린재",
       "name-EUru": "щитник"
     },
     "availability": {
@@ -1600,7 +1600,7 @@
       "name-CNzh": "人面椿象",
       "name-TWzh": "人面椿象",
       "name_JPja": "ジンメンカメムシ",
-      "name-KRko": "인면노린재",
+      "name_KRko": "인면노린재",
       "name-EUru": "щитник с лицом"
     },
     "availability": {
@@ -1638,7 +1638,7 @@
       "name-CNzh": "瓢虫",
       "name-TWzh": "瓢蟲",
       "name_JPja": "テントウムシ",
-      "name-KRko": "무당벌레",
+      "name_KRko": "무당벌레",
       "name-EUru": "божья коровка"
     },
     "availability": {
@@ -1676,7 +1676,7 @@
       "name-CNzh": "虎甲虫",
       "name-TWzh": "虎甲蟲",
       "name_JPja": "ハンミョウ",
-      "name-KRko": "길앞잡이",
+      "name_KRko": "길앞잡이",
       "name-EUru": "жук-скакун"
     },
     "availability": {
@@ -1717,7 +1717,7 @@
       "name-CNzh": "吉丁虫",
       "name-TWzh": "吉丁蟲",
       "name_JPja": "タマムシ",
-      "name-KRko": "비단벌레",
+      "name_KRko": "비단벌레",
       "name-EUru": "златка"
     },
     "availability": {
@@ -1758,7 +1758,7 @@
       "name-CNzh": "提琴虫",
       "name-TWzh": "提琴蟲",
       "name_JPja": "バイオリンムシ",
-      "name-KRko": "바이올린벌레",
+      "name_KRko": "바이올린벌레",
       "name-EUru": "листовидная жужелица"
     },
     "availability": {
@@ -1799,7 +1799,7 @@
       "name-CNzh": "星天牛",
       "name-TWzh": "星天牛",
       "name_JPja": "ゴマダラカミキリ",
-      "name-KRko": "알락하늘소",
+      "name_KRko": "알락하늘소",
       "name-EUru": "цитрусовый усач"
     },
     "availability": {
@@ -1840,7 +1840,7 @@
       "name-CNzh": "琉璃星天牛",
       "name-TWzh": "琉璃星天牛",
       "name_JPja": "ルリボシカミキリ",
-      "name-KRko": "루리하늘소",
+      "name_KRko": "루리하늘소",
       "name-EUru": "розалия"
     },
     "availability": {
@@ -1881,7 +1881,7 @@
       "name-CNzh": "宝石象鼻虫",
       "name-TWzh": "寶石象鼻蟲",
       "name_JPja": "ホウセキゾウムシ",
-      "name-KRko": "유포루스바구미",
+      "name_KRko": "유포루스바구미",
       "name-EUru": "синий долгоносик"
     },
     "availability": {
@@ -1922,7 +1922,7 @@
       "name-CNzh": "蜣螂",
       "name-TWzh": "糞金龜",
       "name_JPja": "フンコロガシ",
-      "name-KRko": "쇠똥구리",
+      "name_KRko": "쇠똥구리",
       "name-EUru": "жук-навозник"
     },
     "availability": {
@@ -1963,7 +1963,7 @@
       "name-CNzh": "雪隐金龟",
       "name-TWzh": "雪隱金龜",
       "name_JPja": "オオセンチコガネ",
-      "name-KRko": "보라금풍뎅이",
+      "name_KRko": "보라금풍뎅이",
       "name-EUru": "навозник-землерой"
     },
     "availability": {
@@ -2004,7 +2004,7 @@
       "name-CNzh": "宝石金龟",
       "name-TWzh": "寶石金龜",
       "name_JPja": "プラチナコガネ",
-      "name-KRko": "보석풍뎅이",
+      "name_KRko": "보석풍뎅이",
       "name-EUru": "золотой скарабей"
     },
     "availability": {
@@ -2042,7 +2042,7 @@
       "name-CNzh": "日铜锣花金龟",
       "name-TWzh": "日銅鑼花金龜",
       "name_JPja": "カナブン",
-      "name-KRko": "풍이",
+      "name_KRko": "풍이",
       "name-EUru": "бронзовка"
     },
     "availability": {
@@ -2083,7 +2083,7 @@
       "name-CNzh": "歌利亚大角花金龟",
       "name-TWzh": "哥利亞大角花金龜",
       "name_JPja": "ゴライアスオオツノハナムグリ",
-      "name-KRko": "골리앗왕꽃무지",
+      "name_KRko": "골리앗왕꽃무지",
       "name-EUru": "жук-голиаф"
     },
     "availability": {
@@ -2121,7 +2121,7 @@
       "name-CNzh": "锯锹形虫",
       "name-TWzh": "鋸鍬形蟲",
       "name_JPja": "ノコギリクワガタ",
-      "name-KRko": "톱사슴벌레",
+      "name_KRko": "톱사슴벌레",
       "name-EUru": "жук-олень"
     },
     "availability": {
@@ -2162,7 +2162,7 @@
       "name-CNzh": "深山锹形虫",
       "name-TWzh": "深山鍬形蟲",
       "name_JPja": "ミヤマクワガタ",
-      "name-KRko": "사슴벌레",
+      "name_KRko": "사슴벌레",
       "name-EUru": "горный жук-олень"
     },
     "availability": {
@@ -2203,7 +2203,7 @@
       "name-CNzh": "大锹形虫",
       "name-TWzh": "大鍬形蟲",
       "name_JPja": "オオクワガタ",
-      "name-KRko": "왕사슴벌레",
+      "name_KRko": "왕사슴벌레",
       "name-EUru": "гигантский жук-олень"
     },
     "availability": {
@@ -2241,7 +2241,7 @@
       "name-CNzh": "彩虹锹形虫",
       "name-TWzh": "彩虹鍬形蟲",
       "name_JPja": "ニジイロクワガタ",
-      "name-KRko": "뮤엘러리사슴벌레",
+      "name_KRko": "뮤엘러리사슴벌레",
       "name-EUru": "радужный жук-олень"
     },
     "availability": {
@@ -2279,7 +2279,7 @@
       "name-CNzh": "细身赤锹形虫",
       "name-TWzh": "細身赤鍬形蟲",
       "name_JPja": "ホソアカクワガタ",
-      "name-KRko": "엘라푸스가위사슴벌레",
+      "name_KRko": "엘라푸스가위사슴벌레",
       "name-EUru": "жук-рогач"
     },
     "availability": {
@@ -2317,7 +2317,7 @@
       "name-CNzh": "黄金鬼锹形虫",
       "name-TWzh": "黃金鬼鍬形蟲",
       "name_JPja": "オウゴンオニクワガタ",
-      "name-KRko": "황금사슴벌레",
+      "name_KRko": "황금사슴벌레",
       "name-EUru": "ламприма"
     },
     "availability": {
@@ -2355,7 +2355,7 @@
       "name-CNzh": "长颈鹿锯锹形虫",
       "name-TWzh": "長頸鹿鋸鍬形蟲",
       "name_JPja": "ギラファノコギリクワガタ",
-      "name-KRko": "기라파톱사슴벌레",
+      "name_KRko": "기라파톱사슴벌레",
       "name-EUru": "рогач-жираф"
     },
     "availability": {
@@ -2393,7 +2393,7 @@
       "name-CNzh": "独角仙",
       "name-TWzh": "獨角仙",
       "name_JPja": "カブトムシ",
-      "name-KRko": "장수풍뎅이",
+      "name_KRko": "장수풍뎅이",
       "name-EUru": "дупляк"
     },
     "availability": {
@@ -2431,7 +2431,7 @@
       "name-CNzh": "高卡萨斯南洋大兜虫",
       "name-TWzh": "高卡薩斯南洋大兜蟲",
       "name_JPja": "コーカサスオオカブト",
-      "name-KRko": "코카서스장수풍뎅이",
+      "name_KRko": "코카서스장수풍뎅이",
       "name-EUru": "жук-атлас"
     },
     "availability": {
@@ -2469,7 +2469,7 @@
       "name-CNzh": "象兜虫",
       "name-TWzh": "象兜蟲",
       "name_JPja": "ゾウカブト",
-      "name-KRko": "코끼리장수풍뎅이",
+      "name_KRko": "코끼리장수풍뎅이",
       "name-EUru": "жук-слон"
     },
     "availability": {
@@ -2507,7 +2507,7 @@
       "name-CNzh": "长戟大兜虫",
       "name-TWzh": "長戟大兜蟲",
       "name_JPja": "ヘラクレスオオカブト",
-      "name-KRko": "헤라클레스장수풍뎅이",
+      "name_KRko": "헤라클레스장수풍뎅이",
       "name-EUru": "жук-геркулес"
     },
     "availability": {
@@ -2545,7 +2545,7 @@
       "name-CNzh": "竹节虫",
       "name-TWzh": "竹節蟲",
       "name_JPja": "ナナフシ",
-      "name-KRko": "긴수염대벌레",
+      "name_KRko": "긴수염대벌레",
       "name-EUru": "палочник"
     },
     "availability": {
@@ -2583,7 +2583,7 @@
       "name-CNzh": "叶竹节虫",
       "name-TWzh": "葉竹節蟲",
       "name_JPja": "コノハムシ",
-      "name-KRko": "잎사귀벌레",
+      "name_KRko": "잎사귀벌레",
       "name-EUru": "листотел"
     },
     "availability": {
@@ -2624,7 +2624,7 @@
       "name-CNzh": "蓑衣虫",
       "name-TWzh": "蓑衣蟲",
       "name_JPja": "ミノムシ",
-      "name-KRko": "도롱이벌레",
+      "name_KRko": "도롱이벌레",
       "name-EUru": "мешочница"
     },
     "availability": {
@@ -2665,7 +2665,7 @@
       "name-CNzh": "蚂蚁",
       "name-TWzh": "螞蟻",
       "name_JPja": "アリ",
-      "name-KRko": "개미",
+      "name_KRko": "개미",
       "name-EUru": "муравей"
     },
     "availability": {
@@ -2706,7 +2706,7 @@
       "name-CNzh": "寄居蟹",
       "name-TWzh": "寄居蟹",
       "name_JPja": "ヤドカリ",
-      "name-KRko": "소라게",
+      "name_KRko": "소라게",
       "name-EUru": "рак-отшельник"
     },
     "availability": {
@@ -2744,7 +2744,7 @@
       "name-CNzh": "海蟑螂",
       "name-TWzh": "海蟑螂",
       "name_JPja": "フナムシ",
-      "name-KRko": "갯강구",
+      "name_KRko": "갯강구",
       "name-EUru": "морской таракан"
     },
     "availability": {
@@ -2785,7 +2785,7 @@
       "name-CNzh": "苍蝇",
       "name-TWzh": "蒼蠅",
       "name_JPja": "ハエ",
-      "name-KRko": "파리",
+      "name_KRko": "파리",
       "name-EUru": "муха"
     },
     "availability": {
@@ -2826,7 +2826,7 @@
       "name-CNzh": "蚊子",
       "name-TWzh": "蚊子",
       "name_JPja": "カ",
-      "name-KRko": "모기",
+      "name_KRko": "모기",
       "name-EUru": "комар"
     },
     "availability": {
@@ -2864,7 +2864,7 @@
       "name-CNzh": "跳蚤",
       "name-TWzh": "跳蚤",
       "name_JPja": "ノミ",
-      "name-KRko": "벼룩",
+      "name_KRko": "벼룩",
       "name-EUru": "блоха"
     },
     "availability": {
@@ -2905,7 +2905,7 @@
       "name-CNzh": "蜗牛",
       "name-TWzh": "蝸牛",
       "name_JPja": "カタツムリ",
-      "name-KRko": "달팽이",
+      "name_KRko": "달팽이",
       "name-EUru": "улитка"
     },
     "availability": {
@@ -2946,7 +2946,7 @@
       "name-CNzh": "鼠妇",
       "name-TWzh": "鼠婦",
       "name_JPja": "ダンゴムシ",
-      "name-KRko": "공벌레",
+      "name_KRko": "공벌레",
       "name-EUru": "мокрица"
     },
     "availability": {
@@ -2984,7 +2984,7 @@
       "name-CNzh": "蜈蚣",
       "name-TWzh": "蜈蚣",
       "name_JPja": "ムカデ",
-      "name-KRko": "지네",
+      "name_KRko": "지네",
       "name-EUru": "многоножка"
     },
     "availability": {
@@ -3022,7 +3022,7 @@
       "name-CNzh": "蜘蛛",
       "name-TWzh": "蜘蛛",
       "name_JPja": "クモ",
-      "name-KRko": "거미",
+      "name_KRko": "거미",
       "name-EUru": "паук"
     },
     "availability": {
@@ -3060,7 +3060,7 @@
       "name-CNzh": "狼蛛",
       "name-TWzh": "狼蛛",
       "name_JPja": "タランチュラ",
-      "name-KRko": "타란툴라",
+      "name_KRko": "타란툴라",
       "name-EUru": "паук-птицеед"
     },
     "availability": {
@@ -3098,7 +3098,7 @@
       "name-CNzh": "蝎子",
       "name-TWzh": "蠍子",
       "name_JPja": "サソリ",
-      "name-KRko": "전갈",
+      "name_KRko": "전갈",
       "name-EUru": "скорпион"
     },
     "availability": {
