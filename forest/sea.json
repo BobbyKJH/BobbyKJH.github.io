@@ -1,23 +1,12 @@
 [
   {
     "id": 1,
-    "file-name": "seaweed",
-    "name": {
-      "name_USen": "seaweed",
-      "name-EUen": "seaweed",
-      "name-EUnl": "zeewier",
-      "name-EUde": "Wakame-Alge",
-      "name-EUes": "alga wakame",
-      "name-USes": "alga wakame",
-      "name-EUfr": "wakame",
-      "name-USfr": "wakamé",
-      "name-EUit": "alga wakame",
-      "name-CNzh": "裙带菜",
-      "name-TWzh": "裙帶菜",
-      "name_JPja": "ワカメ",
-      "name_KRko": "미역",
-      "name-EUru": "морские водоросли"
-    },
+
+    "name_USen": "seaweed",
+    "name-CNzh": "裙带菜",
+    "name-TWzh": "裙帶菜",
+    "name_JPja": "ワカメ",
+    "name_KRko": "미역",
     "availability": {
       "month-northern": "10-7",
       "month-southern": "4-1",
@@ -41,23 +30,12 @@
   },
   {
     "id": 2,
-    "file-name": "sea_grapes",
-    "name": {
-      "name_USen": "sea grapes",
-      "name-EUen": "sea grapes",
-      "name-EUnl": "zeedruiven",
-      "name-EUde": "Kriechsprossalge",
-      "name-EUes": "uva de mar",
-      "name-USes": "uva de mar",
-      "name-EUfr": "algue raisin de mer",
-      "name-USfr": "algue raisin de mer",
-      "name-EUit": "vite di mare",
-      "name-CNzh": "海葡萄",
-      "name-TWzh": "海葡萄",
-      "name_JPja": "ウミブドウ",
-      "name_KRko": "바다포도",
-      "name-EUru": "морской виноград"
-    },
+
+    "name_USen": "sea grapes",
+    "name-CNzh": "海葡萄",
+    "name-TWzh": "海葡萄",
+    "name_JPja": "ウミブドウ",
+    "name_KRko": "바다포도",
     "availability": {
       "month-northern": "6-9",
       "month-southern": "12-3",
@@ -81,23 +59,12 @@
   },
   {
     "id": 3,
-    "file-name": "sea_cucumber",
-    "name": {
-      "name_USen": "sea cucumber",
-      "name-EUen": "sea cucumber",
-      "name-EUde": "Seegurke",
-      "name-EUnl": "zeekomkommer",
-      "name-EUes": "pepino de mar",
-      "name-USes": "pepino de mar",
-      "name-EUfr": "concombre de mer",
-      "name-USfr": "concombre de mer",
-      "name-EUit": "cetriolo di mare",
-      "name-CNzh": "海参",
-      "name-TWzh": "海參",
-      "name_JPja": "ナマコ",
-      "name_KRko": "해삼",
-      "name-EUru": "морской огурец"
-    },
+
+    "name_USen": "sea cucumber",
+    "name-CNzh": "海参",
+    "name-TWzh": "海參",
+    "name_JPja": "ナマコ",
+    "name_KRko": "해삼",
     "availability": {
       "month-northern": "11-4",
       "month-southern": "5-10",
@@ -121,23 +88,12 @@
   },
   {
     "id": 4,
-    "file-name": "sea_pig",
-    "name": {
-      "name_USen": "sea pig",
-      "name-EUen": "sea pig",
-      "name-EUde": "Scotoplanes",
-      "name-EUnl": "zeevarken",
-      "name-EUes": "cerdo de mar",
-      "name-USes": "cerdo de mar",
-      "name-EUfr": "cochon de mer",
-      "name-USfr": "cochon de mer",
-      "name-EUit": "porcellino di mare",
-      "name-CNzh": "海猪",
-      "name-TWzh": "海豬",
-      "name_JPja": "センジュナマコ",
-      "name_KRko": "바다돼지",
-      "name-EUru": "скотопланес"
-    },
+
+    "name_USen": "sea pig",
+    "name-CNzh": "海猪",
+    "name-TWzh": "海豬",
+    "name_JPja": "センジュナマコ",
+    "name_KRko": "바다돼지",
     "availability": {
       "month-northern": "11-2",
       "month-southern": "5-8",
@@ -158,23 +114,12 @@
   },
   {
     "id": 5,
-    "file-name": "sea_star",
-    "name": {
-      "name_USen": "sea star",
-      "name-EUen": "sea star",
-      "name-EUnl": "zeester",
-      "name-EUde": "Seestern",
-      "name-EUes": "estrella de mar",
-      "name-USes": "estrella de mar",
-      "name-EUfr": "étoile de mer",
-      "name-USfr": "étoile de mer",
-      "name-EUit": "stella marina",
-      "name-CNzh": "海星",
-      "name-TWzh": "海星",
-      "name_JPja": "ヒトデ",
-      "name_KRko": "불가사리",
-      "name-EUru": "морская звезда"
-    },
+
+    "name_USen": "sea star",
+    "name-CNzh": "海星",
+    "name-TWzh": "海星",
+    "name_JPja": "ヒトデ",
+    "name_KRko": "불가사리",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -198,23 +143,12 @@
   },
   {
     "id": 6,
-    "file-name": "sea_urchin",
-    "name": {
-      "name_USen": "sea urchin",
-      "name-EUen": "sea urchin",
-      "name-EUde": "Seeigel",
-      "name-EUnl": "zee-egel",
-      "name-EUes": "erizo de mar",
-      "name-USes": "erizo de mar",
-      "name-EUfr": "oursin",
-      "name-USfr": "oursin",
-      "name-EUit": "riccio di mare",
-      "name-CNzh": "海胆",
-      "name-TWzh": "海膽",
-      "name_JPja": "ウニ",
-      "name_KRko": "성게",
-      "name-EUru": "морской еж"
-    },
+
+    "name_USen": "sea urchin",
+    "name-CNzh": "海胆",
+    "name-TWzh": "海膽",
+    "name_JPja": "ウニ",
+    "name_KRko": "성게",
     "availability": {
       "month-northern": "5-9",
       "month-southern": "11-3",
@@ -238,23 +172,12 @@
   },
   {
     "id": 7,
-    "file-name": "slate_pencil_urchin",
-    "name": {
-      "name_USen": "slate pencil urchin",
-      "name-EUen": "slate pencil urchin",
-      "name-EUde": "Griffelseeigel",
-      "name-EUnl": "griffelzee-egel",
-      "name-EUes": "erizo lápiz de pizarra",
-      "name-USes": "erizo lápiz de pizarra",
-      "name-EUfr": "oursin crayon",
-      "name-USfr": "oursin crayon",
-      "name-EUit": "riccio matita",
-      "name-CNzh": "石笔海胆",
-      "name-TWzh": "石筆海膽",
-      "name_JPja": "パイプウニ",
-      "name_KRko": "연필성게",
-      "name-EUru": "грифельный морск. еж"
-    },
+
+    "name_USen": "slate pencil urchin",
+    "name-CNzh": "石笔海胆",
+    "name-TWzh": "石筆海膽",
+    "name_JPja": "パイプウニ",
+    "name_KRko": "연필성게",
     "availability": {
       "month-northern": "5-9",
       "month-southern": "11-3",
@@ -275,23 +198,12 @@
   },
   {
     "id": 8,
-    "file-name": "sea_anemone",
-    "name": {
-      "name_USen": "sea anemone",
-      "name-EUen": "sea anemone",
-      "name-EUde": "Seeanemone",
-      "name-EUnl": "zeeanemoon",
-      "name-EUes": "anémona",
-      "name-USes": "anémona",
-      "name-EUfr": "anémone de mer",
-      "name-USfr": "anémone de mer",
-      "name-EUit": "anemone di mare",
-      "name-CNzh": "海葵",
-      "name-TWzh": "海葵",
-      "name_JPja": "イソギンチャク",
-      "name_KRko": "말미잘",
-      "name-EUru": "актиния"
-    },
+
+    "name_USen": "sea anemone",
+    "name-CNzh": "海葵",
+    "name-TWzh": "海葵",
+    "name_JPja": "イソギンチャク",
+    "name_KRko": "말미잘",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -315,23 +227,12 @@
   },
   {
     "id": 9,
-    "file-name": "moon_jellyfish",
-    "name": {
-      "name_USen": "moon jellyfish",
-      "name-EUen": "moon jellyfish",
-      "name-EUde": "Ohrenqualle",
-      "name-EUnl": "oorkwal",
-      "name-EUes": "medusa luna",
-      "name-USes": "medusa luna",
-      "name-EUfr": "méduse lune",
-      "name-USfr": "méduse lune",
-      "name-EUit": "medusa aurelia",
-      "name-CNzh": "海月水母",
-      "name-TWzh": "海月水母",
-      "name_JPja": "ミズクラゲ",
-      "name_KRko": "보름달물해파리",
-      "name-EUru": "ушастая аурелия"
-    },
+
+    "name_USen": "moon jellyfish",
+    "name-CNzh": "海月水母",
+    "name-TWzh": "海月水母",
+    "name_JPja": "ミズクラゲ",
+    "name_KRko": "보름달물해파리",
     "availability": {
       "month-northern": "7-9",
       "month-southern": "1-3",
@@ -355,23 +256,12 @@
   },
   {
     "id": 10,
-    "file-name": "sea_slug",
-    "name": {
-      "name_USen": "sea slug",
-      "name-EUen": "sea slug",
-      "name-EUde": "Nacktkiemer",
-      "name-EUnl": "zeeslak",
-      "name-EUes": "babosa de mar",
-      "name-USes": "babosa de mar",
-      "name-EUfr": "limace de mer",
-      "name-USfr": "limace de mer",
-      "name-EUit": "nudibranchi",
-      "name-CNzh": "海蛞蝓",
-      "name-TWzh": "海蛞蝓",
-      "name_JPja": "ウミウシ",
-      "name_KRko": "갯민숭달팽이",
-      "name-EUru": "голожаберник"
-    },
+
+    "name_USen": "sea slug",
+    "name-CNzh": "海蛞蝓",
+    "name-TWzh": "海蛞蝓",
+    "name_JPja": "ウミウシ",
+    "name_KRko": "갯민숭달팽이",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -395,23 +285,12 @@
   },
   {
     "id": 11,
-    "file-name": "pearl_oyster",
-    "name": {
-      "name_USen": "pearl oyster",
-      "name-EUen": "pearl oyster",
-      "name-EUde": "Perlmuschel",
-      "name-EUnl": "pareloester",
-      "name-EUes": "ostra perlera",
-      "name-USes": "ostra perlera",
-      "name-EUfr": "huître perlière",
-      "name-USfr": "huître perlière",
-      "name-EUit": "ostrica pinctada",
-      "name-CNzh": "马氏珠母贝",
-      "name-TWzh": "珠母蛤",
-      "name_JPja": "アコヤガイ",
-      "name_KRko": "진주조개",
-      "name-EUru": "жемчужница"
-    },
+
+    "name_USen": "pearl oyster",
+    "name-CNzh": "马氏珠母贝",
+    "name-TWzh": "珠母蛤",
+    "name_JPja": "アコヤガイ",
+    "name_KRko": "진주조개",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -435,23 +314,12 @@
   },
   {
     "id": 12,
-    "file-name": "mussel",
-    "name": {
-      "name_USen": "mussel",
-      "name-EUen": "mussel",
-      "name-EUde": "Miesmuschel",
-      "name-EUnl": "mossel",
-      "name-EUes": "mejillón",
-      "name-USes": "mejillón",
-      "name-EUfr": "moule",
-      "name-USfr": "moule",
-      "name-EUit": "cozza",
-      "name-CNzh": "贻贝",
-      "name-TWzh": "貽貝",
-      "name_JPja": "ムールガイ",
-      "name_KRko": "지중해담치",
-      "name-EUru": "мидия"
-    },
+
+    "name_USen": "mussel",
+    "name-CNzh": "贻贝",
+    "name-TWzh": "貽貝",
+    "name_JPja": "ムールガイ",
+    "name_KRko": "지중해담치",
     "availability": {
       "month-northern": "6-12",
       "month-southern": "12-6",
@@ -475,23 +343,12 @@
   },
   {
     "id": 13,
-    "file-name": "oyster",
-    "name": {
-      "name_USen": "oyster",
-      "name-EUen": "oyster",
-      "name-EUde": "Auster",
-      "name-EUnl": "oester",
-      "name-EUes": "ostra",
-      "name-USes": "ostra",
-      "name-EUfr": "huître",
-      "name-USfr": "huître",
-      "name-EUit": "ostrica",
-      "name-CNzh": "牡蛎",
-      "name-TWzh": "牡蠣",
-      "name_JPja": "オイスター",
-      "name_KRko": "굴",
-      "name-EUru": "устрица"
-    },
+
+    "name_USen": "oyster",
+    "name-CNzh": "牡蛎",
+    "name-TWzh": "牡蠣",
+    "name_JPja": "オイスター",
+    "name_KRko": "굴",
     "availability": {
       "month-northern": "9-2",
       "month-southern": "3-8",
@@ -515,23 +372,12 @@
   },
   {
     "id": 14,
-    "file-name": "scallop",
-    "name": {
-      "name_USen": "scallop",
-      "name-EUen": "scallop",
-      "name-EUde": "Kammmuschel",
-      "name-EUnl": "mantelschelp",
-      "name-EUes": "vieira",
-      "name-USes": "vieira",
-      "name-EUfr": "pétoncle",
-      "name-USfr": "pétoncle",
-      "name-EUit": "capasanta",
-      "name-CNzh": "虾夷扇贝",
-      "name-TWzh": "帆立貝",
-      "name_JPja": "ホタテ",
-      "name_KRko": "가리비",
-      "name-EUru": "гребешок"
-    },
+
+    "name_USen": "scallop",
+    "name-CNzh": "虾夷扇贝",
+    "name-TWzh": "帆立貝",
+    "name_JPja": "ホタテ",
+    "name_KRko": "가리비",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -555,23 +401,12 @@
   },
   {
     "id": 15,
-    "file-name": "whelk",
-    "name": {
-      "name_USen": "whelk",
-      "name-EUen": "whelk",
-      "name-EUde": "Babylon-Seeschnecke",
-      "name-EUnl": "wulk",
-      "name-EUes": "buccino",
-      "name-USes": "buccino",
-      "name-EUfr": "bulot",
-      "name-USfr": "bulot",
-      "name-EUit": "buccino",
-      "name-CNzh": "花螺",
-      "name-TWzh": "峨螺",
-      "name_JPja": "バイガイ",
-      "name_KRko": "수랑",
-      "name-EUru": "моллюск-трубач"
-    },
+
+    "name_USen": "whelk",
+    "name-CNzh": "花螺",
+    "name-TWzh": "峨螺",
+    "name_JPja": "バイガイ",
+    "name_KRko": "수랑",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -595,23 +430,12 @@
   },
   {
     "id": 16,
-    "file-name": "turban_shell",
-    "name": {
-      "name_USen": "turban shell",
-      "name-EUen": "turban shell",
-      "name-EUde": "Turbanschnecke",
-      "name-EUnl": "tulbandschelp",
-      "name-EUes": "caracola espinosa",
-      "name-USes": "caracola espinosa",
-      "name-EUfr": "turbo",
-      "name-USfr": "turbo",
-      "name-EUit": "lumaca turbante",
-      "name-CNzh": "角蝾螺",
-      "name-TWzh": "角蠑螺",
-      "name_JPja": "サザエ",
-      "name_KRko": "소라",
-      "name-EUru": "рогатый тюрбан"
-    },
+
+    "name_USen": "turban shell",
+    "name-CNzh": "角蝾螺",
+    "name-TWzh": "角蠑螺",
+    "name_JPja": "サザエ",
+    "name_KRko": "소라",
     "availability": {
       "month-northern": "3-5 & 9-12",
       "month-southern": "3-6 & 9-11",
@@ -635,23 +459,12 @@
   },
   {
     "id": 17,
-    "file-name": "abalone",
-    "name": {
-      "name_USen": "abalone",
-      "name-EUen": "abalone",
-      "name-EUde": "Seeohr",
-      "name-EUnl": "abalone",
-      "name-EUes": "abulón",
-      "name-USes": "abulón",
-      "name-EUfr": "ormeau",
-      "name-USfr": "ormeau",
-      "name-EUit": "abalone",
-      "name-CNzh": "鲍鱼",
-      "name-TWzh": "鮑魚",
-      "name_JPja": "アワビ",
-      "name_KRko": "전복",
-      "name-EUru": "абалон"
-    },
+
+    "name_USen": "abalone",
+    "name-CNzh": "鲍鱼",
+    "name-TWzh": "鮑魚",
+    "name_JPja": "アワビ",
+    "name_KRko": "전복",
     "availability": {
       "month-northern": "6-1",
       "month-southern": "12-7",
@@ -672,23 +485,12 @@
   },
   {
     "id": 18,
-    "file-name": "gigas_giant_clam",
-    "name": {
-      "name_USen": "gigas giant clam",
-      "name-EUen": "gigas giant clam",
-      "name-EUde": "Gigas-Riesenmuschel",
-      "name-EUnl": "reuzendoopvontschelp",
-      "name-EUes": "taclobo gigante",
-      "name-USes": "taclobo gigante",
-      "name-EUfr": "bénitier colossal",
-      "name-USfr": "bénitier colossal",
-      "name-EUit": "tridacna gigante",
-      "name-CNzh": "大砗磲",
-      "name-TWzh": "大硨磲",
-      "name_JPja": "オオシャコガイ",
-      "name_KRko": "대왕거거",
-      "name-EUru": "гигантская тридакна"
-    },
+
+    "name_USen": "gigas giant clam",
+    "name-CNzh": "大砗磲",
+    "name-TWzh": "大硨磲",
+    "name_JPja": "オオシャコガイ",
+    "name_KRko": "대왕거거",
     "availability": {
       "month-northern": "5-9",
       "month-southern": "11-3",
@@ -712,23 +514,12 @@
   },
   {
     "id": 19,
-    "file-name": "chambered_nautilus",
-    "name": {
-      "name_USen": "chambered nautilus",
-      "name-EUen": "chambered nautilus",
-      "name-EUde": "Perlboot",
-      "name-EUnl": "nautilus",
-      "name-EUes": "nautilo",
-      "name-USes": "nautilo",
-      "name-EUfr": "nautile",
-      "name-USfr": "nautile",
-      "name-EUit": "nautilus",
-      "name-CNzh": "鹦鹉螺",
-      "name-TWzh": "鸚鵡螺",
-      "name_JPja": "オウムガイ",
-      "name_KRko": "앵무조개",
-      "name-EUru": "наутилус"
-    },
+
+    "name_USen": "chambered nautilus",
+    "name-CNzh": "鹦鹉螺",
+    "name-TWzh": "鸚鵡螺",
+    "name_JPja": "オウムガイ",
+    "name_KRko": "앵무조개",
     "availability": {
       "month-northern": "3-6 & 9-11",
       "month-southern": "3-5 & 9-12",
@@ -749,23 +540,12 @@
   },
   {
     "id": 20,
-    "file-name": "octopus",
-    "name": {
-      "name_USen": "octopus",
-      "name-EUen": "octopus",
-      "name-EUde": "Oktopus",
-      "name-EUnl": "octopus",
-      "name-EUes": "pulpo",
-      "name-USes": "pulpo",
-      "name-EUfr": "poulpe",
-      "name-USfr": "pieuvre",
-      "name-EUit": "polpo",
-      "name-CNzh": "章鱼",
-      "name-TWzh": "章魚",
-      "name_JPja": "タコ",
-      "name_KRko": "문어",
-      "name-EUru": "осьминог"
-    },
+
+    "name_USen": "octopus",
+    "name-CNzh": "章鱼",
+    "name-TWzh": "章魚",
+    "name_JPja": "タコ",
+    "name_KRko": "문어",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -789,23 +569,12 @@
   },
   {
     "id": 21,
-    "file-name": "umbrella_octopus",
-    "name": {
-      "name_USen": "umbrella octopus",
-      "name-EUen": "umbrella octopus",
-      "name-EUde": "Regenschirm-Oktopus",
-      "name-EUnl": "depressa-inktvis",
-      "name-EUes": "pulpo paraguas",
-      "name-USes": "pulpo paraguas",
-      "name-EUfr": "pieuvre parapluie",
-      "name-USfr": "pieuvre parapluie",
-      "name-EUit": "polpo ombrello",
-      "name-CNzh": "扁面蛸",
-      "name-TWzh": "扁面蛸",
-      "name_JPja": "メンダコ",
-      "name_KRko": "우무문어",
-      "name-EUru": "опистотейтис"
-    },
+
+    "name_USen": "umbrella octopus",
+    "name-CNzh": "扁面蛸",
+    "name-TWzh": "扁面蛸",
+    "name_JPja": "メンダコ",
+    "name_KRko": "우무문어",
     "availability": {
       "month-northern": "3-5 & 9-11",
       "month-southern": "3-5 & 9-11",
@@ -829,23 +598,12 @@
   },
   {
     "id": 22,
-    "file-name": "vampire_squid",
-    "name": {
-      "name_USen": "vampire squid",
-      "name-EUen": "vampire squid",
-      "name-EUde": "Vampirtintenfisch",
-      "name-EUnl": "vampierinktvis",
-      "name-EUes": "calamar vampiro",
-      "name-USes": "calamar vampiro",
-      "name-EUfr": "vampire des abysses",
-      "name-USfr": "vampire des abysses",
-      "name-EUit": "calamaro vampiro",
-      "name-CNzh": "吸血鬼乌贼",
-      "name-TWzh": "吸血烏賊",
-      "name_JPja": "コウモリダコ",
-      "name_KRko": "흡혈오징어",
-      "name-EUru": "адский кальмар-вампир"
-    },
+
+    "name_USen": "vampire squid",
+    "name-CNzh": "吸血鬼乌贼",
+    "name-TWzh": "吸血烏賊",
+    "name_JPja": "コウモリダコ",
+    "name_KRko": "흡혈오징어",
     "availability": {
       "month-northern": "5-8",
       "month-southern": "11-2",
@@ -866,23 +624,12 @@
   },
   {
     "id": 23,
-    "file-name": "firefly_squid",
-    "name": {
-      "name_USen": "firefly squid",
-      "name-EUen": "firefly squid",
-      "name-EUde": "Leuchtkalmar",
-      "name-EUnl": "vuurvliegpijlinktvis",
-      "name-EUes": "calamar luciérnaga",
-      "name-USes": "calamar luciérnaga",
-      "name-EUfr": "calmar luciole",
-      "name-USfr": "calmar luciole",
-      "name-EUit": "calamaro lucciola",
-      "name-CNzh": "萤火鱿",
-      "name-TWzh": "螢火魷",
-      "name_JPja": "ホタルイカ",
-      "name_KRko": "반딧불오징어",
-      "name-EUru": "сверкающий кальмар"
-    },
+
+    "name_USen": "firefly squid",
+    "name-CNzh": "萤火鱿",
+    "name-TWzh": "螢火魷",
+    "name_JPja": "ホタルイカ",
+    "name_KRko": "반딧불오징어",
     "availability": {
       "month-northern": "3-6",
       "month-southern": "9-12",
@@ -903,23 +650,12 @@
   },
   {
     "id": 24,
-    "file-name": "gazami_crab",
-    "name": {
-      "name_USen": "gazami crab",
-      "name-EUen": "gazami crab",
-      "name-EUde": "Gazami-Krabbe",
-      "name-EUnl": "Japanse blauwe krab",
-      "name-EUes": "cangrejo gazami",
-      "name-USes": "cangrejo gazami",
-      "name-EUfr": "crabe gazami",
-      "name-USfr": "crabe gazami",
-      "name-EUit": "granchio gazami",
-      "name-CNzh": "梭子蟹",
-      "name-TWzh": "三疣梭子蟹",
-      "name_JPja": "ガザミ",
-      "name_KRko": "꽃게",
-      "name-EUru": "газами-краб"
-    },
+
+    "name_USen": "gazami crab",
+    "name-CNzh": "梭子蟹",
+    "name-TWzh": "三疣梭子蟹",
+    "name_JPja": "ガザミ",
+    "name_KRko": "꽃게",
     "availability": {
       "month-northern": "6-11",
       "month-southern": "12-5",
@@ -943,23 +679,12 @@
   },
   {
     "id": 25,
-    "file-name": "dungeness_crab",
-    "name": {
-      "name_USen": "Dungeness crab",
-      "name-EUen": "Dungeness crab",
-      "name-EUde": "Pazifik-Taschenkrebs",
-      "name-EUnl": "Dungeness-krab",
-      "name-EUes": "buey del Pacífico",
-      "name-USes": "buey del Pacífico",
-      "name-EUfr": "crabe de Dungeness",
-      "name-USfr": "crabe de Dungeness",
-      "name-EUit": "granciporro",
-      "name-CNzh": "珍宝蟹",
-      "name-TWzh": "首長黃道蟹",
-      "name_JPja": "ダンジネスクラブ",
-      "name_KRko": "던지니스크랩",
-      "name-EUru": "данженесский краб"
-    },
+
+    "name_USen": "Dungeness crab",
+    "name-CNzh": "珍宝蟹",
+    "name-TWzh": "首長黃道蟹",
+    "name_JPja": "ダンジネスクラブ",
+    "name_KRko": "던지니스크랩",
     "availability": {
       "month-northern": "11-5",
       "month-southern": "5-11",
@@ -983,23 +708,12 @@
   },
   {
     "id": 26,
-    "file-name": "snow_crab",
-    "name": {
-      "name_USen": "snow crab",
-      "name-EUen": "snow crab",
-      "name-EUde": "Schneekrabbe",
-      "name-EUnl": "sneeuwkrab",
-      "name-EUes": "cangrejo de nieve",
-      "name-USes": "cangrejo de nieve",
-      "name-EUfr": "crabe des neiges",
-      "name-USfr": "crabe des neiges",
-      "name-EUit": "granchio della neve",
-      "name-CNzh": "松叶蟹",
-      "name-TWzh": "松葉蟹",
-      "name_JPja": "ズワイガニ",
-      "name_KRko": "대게",
-      "name-EUru": "краб-стригун"
-    },
+
+    "name_USen": "snow crab",
+    "name-CNzh": "松叶蟹",
+    "name-TWzh": "松葉蟹",
+    "name_JPja": "ズワイガニ",
+    "name_KRko": "대게",
     "availability": {
       "month-northern": "11-4",
       "month-southern": "5-10",
@@ -1023,23 +737,12 @@
   },
   {
     "id": 27,
-    "file-name": "red_king_crab",
-    "name": {
-      "name_USen": "red king crab",
-      "name-EUen": "red king crab",
-      "name-EUde": "Königskrabbe",
-      "name-EUnl": "rode koningskrab",
-      "name-EUes": "cangrejo boreal",
-      "name-USes": "cangrejo boreal",
-      "name-EUfr": "crabe royal",
-      "name-USfr": "crabe royal",
-      "name-EUit": "granchio gigante",
-      "name-CNzh": "帝王蟹",
-      "name-TWzh": "鱈場蟹",
-      "name_JPja": "タラバガニ",
-      "name_KRko": "왕게",
-      "name-EUru": "камчатский краб"
-    },
+
+    "name_USen": "red king crab",
+    "name-CNzh": "帝王蟹",
+    "name-TWzh": "鱈場蟹",
+    "name_JPja": "タラバガニ",
+    "name_KRko": "왕게",
     "availability": {
       "month-northern": "11-3",
       "month-southern": "5-9",
@@ -1063,23 +766,12 @@
   },
   {
     "id": 28,
-    "file-name": "acorn_barnacle",
-    "name": {
-      "name_USen": "acorn barnacle",
-      "name-EUen": "acorn barnacle",
-      "name-EUde": "Seepocke",
-      "name-EUnl": "zeepok",
-      "name-EUes": "bellota de mar",
-      "name-USes": "bellota de mar",
-      "name-EUfr": "balane",
-      "name-USfr": "balane",
-      "name-EUit": "dente di cane",
-      "name-CNzh": "藤壶",
-      "name-TWzh": "藤壺",
-      "name_JPja": "フジツボ",
-      "name_KRko": "따개비",
-      "name-EUru": "морской желудь"
-    },
+
+    "name_USen": "acorn barnacle",
+    "name-CNzh": "藤壶",
+    "name-TWzh": "藤壺",
+    "name_JPja": "フジツボ",
+    "name_KRko": "따개비",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -1103,23 +795,12 @@
   },
   {
     "id": 29,
-    "file-name": "spider_crab",
-    "name": {
-      "name_USen": "spider crab",
-      "name-EUen": "spider crab",
-      "name-EUde": "Riesenkrabbe",
-      "name-EUnl": "reuzenkrab",
-      "name-EUes": "cangrejo gigante japonés",
-      "name-USes": "cangrejo gigante japonés",
-      "name-EUfr": "crabe-araignée géant",
-      "name-USfr": "crabe-araignée géant",
-      "name-EUit": "granchio gig. del Giappone",
-      "name-CNzh": "高脚蟹",
-      "name-TWzh": "高腳蟹",
-      "name_JPja": "タカアシガニ",
-      "name_KRko": "키다리게",
-      "name-EUru": "краб-паук"
-    },
+
+    "name_USen": "spider crab",
+    "name-CNzh": "高脚蟹",
+    "name-TWzh": "高腳蟹",
+    "name_JPja": "タカアシガニ",
+    "name_KRko": "키다리게",
     "availability": {
       "month-northern": "3-4",
       "month-southern": "9-10",
@@ -1143,23 +824,12 @@
   },
   {
     "id": 30,
-    "file-name": "tiger_prawn",
-    "name": {
-      "name_USen": "tiger prawn",
-      "name-EUen": "tiger prawn",
-      "name-EUde": "Kuruma-Garnele",
-      "name-EUnl": "tijgergarnaal",
-      "name-EUes": "langostino tigre",
-      "name-USes": "langostino tigre",
-      "name-EUfr": "crevette tigrée",
-      "name-USfr": "crevette tigrée",
-      "name-EUit": "gambero black tiger",
-      "name-CNzh": "日本对虾",
-      "name-TWzh": "日本囊對蝦",
-      "name_JPja": "クルマエビ",
-      "name_KRko": "보리새우",
-      "name-EUru": "тигровая креветка"
-    },
+
+    "name_USen": "tiger prawn",
+    "name-CNzh": "日本对虾",
+    "name-TWzh": "日本囊對蝦",
+    "name_JPja": "クルマエビ",
+    "name_KRko": "보리새우",
     "availability": {
       "month-northern": "6-9",
       "month-southern": "12-3",
@@ -1180,23 +850,12 @@
   },
   {
     "id": 31,
-    "file-name": "sweet_shrimp",
-    "name": {
-      "name_USen": "sweet shrimp",
-      "name-EUen": "sweet shrimp",
-      "name-EUde": "Botan-Garnele",
-      "name-EUnl": "Noorse garnaal",
-      "name-EUes": "camarón boreal",
-      "name-USes": "camarón boreal",
-      "name-EUfr": "crevette nordique",
-      "name-USfr": "crevette nordique",
-      "name-EUit": "gamberetto boreale",
-      "name-CNzh": "甜虾",
-      "name-TWzh": "甜蝦",
-      "name_JPja": "アマエビ",
-      "name_KRko": "북쪽분홍새우",
-      "name-EUru": "северная креветка"
-    },
+
+    "name_USen": "sweet shrimp",
+    "name-CNzh": "甜虾",
+    "name-TWzh": "甜蝦",
+    "name_JPja": "アマエビ",
+    "name_KRko": "북쪽분홍새우",
     "availability": {
       "month-northern": "9-2",
       "month-southern": "3-8",
@@ -1217,23 +876,12 @@
   },
   {
     "id": 32,
-    "file-name": "mantis_shrimp",
-    "name": {
-      "name_USen": "mantis shrimp",
-      "name-EUen": "mantis shrimp",
-      "name-EUde": "Fangschreckenkrebs",
-      "name-EUnl": "mantisgarnaal",
-      "name-EUes": "langosta mantis",
-      "name-USes": "langosta mantis",
-      "name-EUfr": "crevette-mante",
-      "name-USfr": "crevette-mante",
-      "name-EUit": "gambero mantide",
-      "name-CNzh": "虾蛄",
-      "name-TWzh": "蝦蛄",
-      "name_JPja": "シャコ",
-      "name_KRko": "갯가재",
-      "name-EUru": "рак-богомол"
-    },
+
+    "name_USen": "mantis shrimp",
+    "name-CNzh": "虾蛄",
+    "name-TWzh": "蝦蛄",
+    "name_JPja": "シャコ",
+    "name_KRko": "갯가재",
     "availability": {
       "month-northern": "",
       "month-southern": "",
@@ -1254,23 +902,12 @@
   },
   {
     "id": 33,
-    "file-name": "spiny_lobster",
-    "name": {
-      "name_USen": "spiny lobster",
-      "name-EUen": "spiny lobster",
-      "name-EUde": "Languste",
-      "name-EUnl": "langoest",
-      "name-EUes": "langosta espinosa",
-      "name-USes": "langosta espinosa",
-      "name-EUfr": "langouste",
-      "name-USfr": "langouste",
-      "name-EUit": "aragosta mediterranea",
-      "name-CNzh": "伊势龙虾",
-      "name-TWzh": "伊勢龍蝦",
-      "name_JPja": "イセエビ",
-      "name_KRko": "닭새우",
-      "name-EUru": "колючий лангуст"
-    },
+
+    "name_USen": "spiny lobster",
+    "name-CNzh": "伊势龙虾",
+    "name-TWzh": "伊勢龍蝦",
+    "name_JPja": "イセエビ",
+    "name_KRko": "닭새우",
     "availability": {
       "month-northern": "10-12",
       "month-southern": "4-6",
@@ -1291,23 +928,12 @@
   },
   {
     "id": 34,
-    "file-name": "lobster",
-    "name": {
-      "name_USen": "lobster",
-      "name-EUen": "lobster",
-      "name-EUde": "Hummer",
-      "name-EUnl": "kreeft",
-      "name-EUes": "bogavante",
-      "name-USes": "bogavante",
-      "name-EUfr": "homard",
-      "name-USfr": "homard",
-      "name-EUit": "astice",
-      "name-CNzh": "龙虾",
-      "name-TWzh": "螯龍蝦",
-      "name_JPja": "ロブスター",
-      "name_KRko": "바닷가재",
-      "name-EUru": "омар"
-    },
+
+    "name_USen": "lobster",
+    "name-CNzh": "龙虾",
+    "name-TWzh": "螯龍蝦",
+    "name_JPja": "ロブスター",
+    "name_KRko": "바닷가재",
     "availability": {
       "month-northern": "12-1 & 4-6",
       "month-southern": "6-7 & 10-12",
@@ -1331,23 +957,12 @@
   },
   {
     "id": 35,
-    "file-name": "giant_isopod",
-    "name": {
-      "name_USen": "giant isopod",
-      "name-EUen": "giant isopod",
-      "name-EUde": "Riesenassel",
-      "name-EUnl": "reuzenpissebed",
-      "name-EUes": "isópodo gigante",
-      "name-USes": "isópodo gigante",
-      "name-EUfr": "bathynome géant",
-      "name-USfr": "isopode géant",
-      "name-EUit": "isopode gigante",
-      "name-CNzh": "大王具足虫",
-      "name-TWzh": "大王具足蟲",
-      "name_JPja": "ダイオウグソクムシ",
-      "name_KRko": "자이언트 이소포드",
-      "name-EUru": "гигантская изопода"
-    },
+
+    "name_USen": "giant isopod",
+    "name-CNzh": "大王具足虫",
+    "name-TWzh": "大王具足蟲",
+    "name_JPja": "ダイオウグソクムシ",
+    "name_KRko": "자이언트 이소포드",
     "availability": {
       "month-northern": "7-10",
       "month-southern": "1-4",
@@ -1368,23 +983,12 @@
   },
   {
     "id": 36,
-    "file-name": "horseshoe_crab",
-    "name": {
-      "name_USen": "horseshoe crab",
-      "name-EUen": "horseshoe crab",
-      "name-EUde": "Pfeilschwanzkrebs",
-      "name-EUnl": "degenkrab",
-      "name-EUes": "cangrejo herradura",
-      "name-USes": "cangrejo herradura",
-      "name-EUfr": "limule",
-      "name-USfr": "limule",
-      "name-EUit": "granchio ferro di cavallo",
-      "name-CNzh": "鲎",
-      "name-TWzh": "鱟",
-      "name_JPja": "カブトガニ",
-      "name_KRko": "투구게",
-      "name-EUru": "мечехвост"
-    },
+
+    "name_USen": "horseshoe crab",
+    "name-CNzh": "鲎",
+    "name-TWzh": "鱟",
+    "name_JPja": "カブトガニ",
+    "name_KRko": "투구게",
     "availability": {
       "month-northern": "7-9",
       "month-southern": "1-3",
@@ -1405,23 +1009,12 @@
   },
   {
     "id": 37,
-    "file-name": "sea_pineapple",
-    "name": {
-      "name_USen": "sea pineapple",
-      "name-EUen": "sea pineapple",
-      "name-EUde": "Seeananas",
-      "name-EUnl": "zeeananas",
-      "name-EUes": "piña de mar",
-      "name-USes": "piña de mar",
-      "name-EUfr": "halocynthia roretzi",
-      "name-USfr": "halocynthia roretzi",
-      "name-EUit": "ananas di mare",
-      "name-CNzh": "海鞘",
-      "name-TWzh": "海鞘",
-      "name_JPja": "ホヤ",
-      "name_KRko": "멍게",
-      "name-EUru": "морской ананас"
-    },
+
+    "name_USen": "sea pineapple",
+    "name-CNzh": "海鞘",
+    "name-TWzh": "海鞘",
+    "name_JPja": "ホヤ",
+    "name_KRko": "멍게",
     "availability": {
       "month-northern": "4-8",
       "month-southern": "10-2",
@@ -1445,23 +1038,12 @@
   },
   {
     "id": 38,
-    "file-name": "spotted_garden_eel",
-    "name": {
-      "name_USen": "spotted garden eel",
-      "name-EUen": "spotted garden eel",
-      "name-EUde": "Röhrenaal",
-      "name-EUnl": "gevlekte buisaal",
-      "name-EUes": "anguila jardinera",
-      "name-USes": "anguila jardinera",
-      "name-EUfr": "anguille de jardin",
-      "name-USfr": "anguille de jardin",
-      "name-EUit": "anguilla di giardino",
-      "name-CNzh": "花园鳗",
-      "name-TWzh": "花園鰻",
-      "name_JPja": "チンアナゴ",
-      "name_KRko": "가든일",
-      "name-EUru": "леопардовый угорь"
-    },
+
+    "name_USen": "spotted garden eel",
+    "name-CNzh": "花园鳗",
+    "name-TWzh": "花園鰻",
+    "name_JPja": "チンアナゴ",
+    "name_KRko": "가든일",
     "availability": {
       "month-northern": "5-10",
       "month-southern": "11-4",
@@ -1484,23 +1066,12 @@
   },
   {
     "id": 39,
-    "file-name": "flatworm",
-    "name": {
-      "name_USen": "flatworm",
-      "name-EUen": "flatworm",
-      "name-EUde": "Meerstrudelwurm",
-      "name-EUnl": "platworm",
-      "name-EUes": "gusano políclado",
-      "name-USes": "gusano políclado",
-      "name-EUfr": "ver plat",
-      "name-USfr": "ver plat",
-      "name-EUit": "verme piatto",
-      "name-CNzh": "海扁虫",
-      "name-TWzh": "海扁蟲",
-      "name_JPja": "ヒラムシ",
-      "name_KRko": "납작벌레",
-      "name-EUru": "плоский червь"
-    },
+
+    "name_USen": "flatworm",
+    "name-CNzh": "海扁虫",
+    "name-TWzh": "海扁蟲",
+    "name_JPja": "ヒラムシ",
+    "name_KRko": "납작벌레",
     "availability": {
       "month-northern": "8-9",
       "month-southern": "2-3",
@@ -1521,23 +1092,12 @@
   },
   {
     "id": 40,
-    "file-name": "venus_flower_basket",
-    "name": {
-      "name_USen": "Venus' flower basket",
-      "name-EUen": "Venus' flower basket",
-      "name-EUde": "Gießkannenschwamm",
-      "name-EUnl": "venusmandje",
-      "name-EUes": "canasta de flores de Venus",
-      "name-USes": "canasta de flores de Venus",
-      "name-EUfr": "corbeille de Vénus",
-      "name-USfr": "corbeille de Vénus",
-      "name-EUit": "cestello di Venere",
-      "name-CNzh": "偕老同穴",
-      "name-TWzh": "偕老同穴",
-      "name_JPja": "カイロウドウケツ",
-      "name_KRko": "해로동혈",
-      "name-EUru": "корзинка Венеры"
-    },
+
+    "name_USen": "Venus' flower basket",
+    "name-CNzh": "偕老同穴",
+    "name-TWzh": "偕老同穴",
+    "name_JPja": "カイロウドウケツ",
+    "name_KRko": "해로동혈",
     "availability": {
       "month-northern": "10-2",
       "month-southern": "4-8",
